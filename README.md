@@ -1,4 +1,3 @@
-
-
-https://github.com/user-attachments/assets/0e01fd3f-5fc6-4681-8ff6-6885aa2b98af
-
+<div align="center">
+  <img width="3543" alt="Rock the House Set" src="https://github.com/user-attachments/assets/8d879c33-d3e4-4d84-9be4-4037454eb4a3" />
+</div>
