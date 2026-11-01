@@ -1,3 +1,3 @@
 <div align="center">
-  <img width="3543" alt="Rock the House Set" src="https://github.com/user-attachments/assets/8d879c33-d3e4-4d84-9be4-4037454eb4a3" />
+  <img width="1920" alt="Rhinestone Eyes" src="https://github.com/user-attachments/assets/08eaf6ae-f083-4e35-8efb-f3f401b01514" />
 </div>
