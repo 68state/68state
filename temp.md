@@ -37,10 +37,12 @@
     <tr>
       <td>
         <details>
-          <summary><b>${\color{#59eb62}{\textsf{ABOUT ME...}}}$</b></summary>
           <br>
           placeholder text 4
         </details>
+      <summary>
+          <b>${\color{#59eb62}{\textsf{ABOUT ME...}}}$</b>
+      </summary>
       </td>
     </tr>
   </tbody>
