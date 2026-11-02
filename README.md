@@ -4,8 +4,8 @@
 </p>
 
 <!-- quote -->
-<div align="center">
-  $\color{#f00}{\textsf{lorem ipsum}}$
+<p align="center">
+  placeholder text
 </div>
 
 <!-- picture decor -->
