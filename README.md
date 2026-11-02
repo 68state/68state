@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&username=Iimbus&color=59eb62&style=plastic&label=pirate+radio">
 </p>
 
-<!-- hidden code line 1 - will be used for later
+<!-- quote -->
 <div align="center">
-  ${\textbf{\color{#fffff}testing}}$
+  $\color{#f00}{\textsf{lorem ipsum}}$
 </div>
 
 <!-- picture decor -->
@@ -20,16 +20,16 @@
   </a>
 </p>
 
-<!-- hidden code line 2 - will be used for later
+<!-- unnamed -->
 <table align="left">
   <tbody>
     <tr>
       <td>
         <details>
-          <summary><b>placeholder text 1</b></summary>
+          <summary><b>BEFORE YOU INTERACT...</b></summary>
           <br>
           placeholder text 2<br>
-          <img width="200" alt="Nonbinary_flag svg" src="https://github.com/user-attachments/assets/ee9f1ec7-a222-45e1-81cd-59e90b3ceeea" />
+          space
         </details>
       </td>
     </tr>
@@ -40,9 +40,9 @@
     <tr>
       <td>
         <details>
-          <summary><b>placeholder text 3</b></summary>
+          <summary><b>ABOUT ME...</b></summary>
           <br>
-          placeholder text 4
+          .
         </details>
       </td>
     </tr>
@@ -51,4 +51,3 @@
 <div align="center">
   <img width="80" alt="80px-Impending_Wave_Gift" src="https://github.com/user-attachments/assets/69a71c0b-94e7-4b5d-ad20-5664a29e3e89" />
 </div>
-<br clear="all" />
