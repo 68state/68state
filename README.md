@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&username=Iimbus&color=59eb62&style=plastic&label=pirate+radio">
 </p>
 
-<!-- quote -->
+<!-- hidden code line 1 - will be used for later
 <div align="center">
-  ${\textbf{\color{#ffffff}testing}}$
+  ${\textbf{\color{#fffff}testing}}$
 </div>
 
 <!-- picture decor -->
@@ -13,7 +13,7 @@
   <img width="1920" alt="Rhinestone Eyes" src="https://github.com/user-attachments/assets/08eaf6ae-f083-4e35-8efb-f3f401b01514" />
 </div>
 
-<!-- hidden code line - will be used for later
+<!-- hidden code line 2 - will be used for later
 <table align="left">
   <tbody>
     <tr>
