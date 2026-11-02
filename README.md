@@ -5,7 +5,9 @@
 
 <!-- quote -->
 <p align="center">
-  placeholder text
+  ${\color{#59eb62}{\textsf{IM A SCARY GARGOYLE ON A TOWER}}}$ <br>
+  ${\color{#59eb62}{\textsf{THAT YOU MADE WITH PLASTIC POWER}}}$ <br>
+  ${\color{#59eb62}{\textsf{YOUR RHINESTONE EYES ARE LIKE}}}$ ${\color{#aa1837}{\textsf{FACTORIES}}}$ ${\color{#59eb62}{\textsf{FAR AWAY}}}$
 </div>
 
 <!-- picture decor -->
