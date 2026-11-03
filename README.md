@@ -9,6 +9,8 @@
     ---
     
     repository made by dotonaro (@CrackerIsland/me)
+    star this repository if you are taking inspirations off mine
+    or you have forked this repository/the template
     
     theme: Cracker Island (album) by Gorillaz
     https://en.wikipedia.org/wiki/Cracker_Island
@@ -17,10 +19,6 @@
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
 </p>
-<!-- decoration 1 -->
-<div align="center">
-  <img width="150" alt="TheLastCult_gorillaz" src="https://github.com/user-attachments/assets/5e1a658f-dfd2-4605-af11-47d2192e2bfe" />
-</div>
 <!-- quote -->
 <p align="center">
   ${\color{#e24a79}{\textsf{╭───}}}$        ${\color{#e24a79}{\textsf{───╮}}}$ <br>
@@ -31,6 +29,10 @@
   <br>
   ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
 </p>
+<!-- decoration 1 -->
+<div align="center">
+  <img width="150" alt="TheLastCult_gorillaz" src="https://github.com/user-attachments/assets/5e1a658f-dfd2-4605-af11-47d2192e2bfe" />
+</div>
 <!-- overview -->
 <div align="center">
   <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="70" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
