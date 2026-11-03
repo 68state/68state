@@ -76,9 +76,12 @@
     </tr>
   </tbody>
 </table>
-<p align="center">
+<div align="center">
   <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
   <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /><br>
+</div>
+<!-- extra -->
+<p align="center">
   ${\color{#e24a79}{\textsf{GitHub README.md by @CrackerIsland}}}$<br>
   ${\color{#e24a79}{\textsf{Theme: Cracker Island (album) by Gorillaz}}}$
 </p>
