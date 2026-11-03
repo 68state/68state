@@ -53,8 +53,7 @@
         <details>
           <summary>     ${\color{#e24a79}{\textsf{BEFORE YOU INTERACT...}}}$     <br><div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
-          placeholder text 2<br>
-          space 1
+          hey this is not done mkay?...
         </details>
       </td>
     </tr>
