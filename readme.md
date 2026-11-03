@@ -2,21 +2,19 @@ hey im remaking this ok
 
 <!-- profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&username=Iimbus&color=59eb62&style=plastic&label=pirate+radio">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86%20FOREVER%20CULT&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
 </p>
 
 <!-- quote -->
 <p align="center">
-  ${\color{#59eb62}{\textsf{IM A SCARY GARGOYLE ON A TOWER}}}$ <br>
-  ${\color{#59eb62}{\textsf{THAT YOU MADE WITH PLASTIC POWER}}}$ <br>
-  ${\color{#59eb62}{\textsf{YOUR RHINESTONE EYES ARE LIKE}}}$ ${\color{#aa1837}{\textsf{FACTORIES}}}$ ${\color{#59eb62}{\textsf{FAR AWAY}}}$
+  ${\color{#e24a79}{\textsf{On Cracker Island it was born}}}$ <br>
+  ${\color{#e24a79}{\textsf{To the collective of the dawn}}}$ <br>
+  ${\color{#e24a79}{\textsf{They were planting seeds at night}}}$
 </div>
 
 <!-- picture decoration -->
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=yYDmaexVHic">
-    <img width="1920" alt="Rhinestone Eyes" src="https://github.com/user-attachments/assets/08eaf6ae-f083-4e35-8efb-f3f401b01514" />
-  </a>
+  <img width="1200" alt="Cracker Island" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" />
 </div>
 
 <!-- table of content + middle picture decoration -->
