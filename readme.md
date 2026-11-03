@@ -29,6 +29,7 @@
 <div align="center">
   <img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" />
 </div>
+<br>
 <!-- table of content + middle picture decoration -->
 <table align="left">
   <tbody>
@@ -59,5 +60,5 @@
   </tbody>
 </table>
 <div align="center">
-  <img width="200" alt="GBKcpZsXAAAZHem" src="https://github.com/user-attachments/assets/d349a849-759c-42e8-846c-bb8098010fa5" />
+  <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" />
 </div>
