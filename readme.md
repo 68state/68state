@@ -19,12 +19,8 @@ hey im remaking this ok
   <br>
   ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
 </p>
-<!-- decoration 2 -->
-<div align="left">
-  <img width="165" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" />
-</div>
 
-<!-- decoration 3 -->
+<!-- decoration 2 -->
 <div align="center">
   <img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" />
 </div>
@@ -35,7 +31,7 @@ hey im remaking this ok
     <tr>
       <td>
         <details>
-          <summary>${\color{#59eb62}{\textsf{BEFORE YOU INTERACT...}}}$</summary>
+          <summary>    ${\color{#59eb62}{\textsf{BEFORE YOU INTERACT...}}}$    <br>    <div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
           placeholder text 2<br>
           space 1
