@@ -42,7 +42,7 @@
 <br>
 <!-- decoration 2 -->
 <div align="center">
-  <img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" />
+  <a href="https://www.youtube.com/watch?v=S03T47hapAc"><img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" /></a>
 </div>
 <br>
 <!-- table of content + middle picture decoration -->
@@ -93,5 +93,5 @@
 </table>
 <div align="center">
   <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
-  <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /><br>
+  <a href="https://en.wikipedia.org/wiki/Cracker_Island"><img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /></a>
 </div>
