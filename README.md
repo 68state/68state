@@ -52,9 +52,10 @@
         <details>
           <summary>     ${\color{#e24a79}{\textsf{GENERAL INFORMATION...}}}$     <br><div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
-          my nicknames: ${\color{#e24a79}{\textsf{(ilo (iloides),}}}$ <br>
-          ${\color{#e24a79}{\textsf{(dotonaro (more common), or yoru}}}$
-          my pronouns are they/them, <br>
+          my nicknames: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
+          ${\color{#e24a79}{\textsf{dotonaro, or yoru}}}$ <br>
+          <br>
+          my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$, <br>
           you can use masculine terms <br>
           on me such as; bro & dude, <br>
           just dont use feminine terms <br>
@@ -76,5 +77,8 @@
   </tbody>
 </table>
 <div align="center">
-  <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" />
+  <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
+  <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /><br>
+  ${\color{#e24a79}{\textsf{GitHub README.md by @CrackerIsland}}}$<br>
+  ${\color{#e24a79}{\textsf{Theme: Cracker Island (album) by Gorillaz}}}$
 </div>
