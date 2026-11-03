@@ -94,11 +94,13 @@
           <br>
           ${\color{#e24a79}{\textsf{do not interact(s);}}}$
           <br>
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://dni-criteria.carrd.co/">basic dni criteria</a>
+          <br>
           ${\color{#e24a79}{\textsf{-}}}$ forsaken
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ qwels supporter
+          ${\color{#e24a79}{\textsf{-}}}$ boundary breaker
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://dni-criteria.carrd.co/">basic dni criteria</a>
+          ${\color{#e24a79}{\textsf{-}}}$ qwel
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ lolicon
           <br>
@@ -106,21 +108,29 @@
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ incest
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ funamuseas supporter
+          ${\color{#e24a79}{\textsf{-}}}$ funamusea
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ pressure
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ fariis47s supporter
+          ${\color{#e24a79}{\textsf{-}}}$ fariis47
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ twixxels supporter
+          ${\color{#e24a79}{\textsf{-}}}$ twixxel
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ merffinns supporter
+          ${\color{#e24a79}{\textsf{-}}}$ idaios
+          <br>
+          ${\color{#e24a79}{\textsf{-}}}$ merffinn
+          <br>
+          ${\color{#e24a79}{\textsf{-}}}$ judelow
+          <br>
+          ${\color{#e24a79}{\textsf{-}}}$ drdonut
+          <br>
+          ${\color{#e24a79}{\textsf{-}}}$ dream team
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ blue archive
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ true crime community (tcc)
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ vivziepops supporter
+          ${\color{#e24a79}{\textsf{-}}}$ vivziepop
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ doom by fate
           <br>
@@ -129,6 +139,12 @@
           ${\color{#e24a79}{\textsf{-}}}$ gender stereotyping
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ radqueer
+          <br>
+          ${\color{#e24a79}{\textsf{i will ignore you purposely}}}$ 
+          <br>
+          ${\color{#e24a79}{\textsf{or block if you support any of}}}$ 
+          <br>
+          ${\color{#e24a79}{\textsf{these media or people(s)}}}$ 
           <br>
           <br>
           ${\color{#e24a79}{\textsf{───}}}$
