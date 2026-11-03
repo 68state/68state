@@ -1,5 +1,7 @@
 <!-- message:
-    you can take inspiration or fork this repository,
+    hello!
+    
+    yes, you can take inspiration or fork this repository,
     template version (highly recommended if you want to fork):
     https://github.com/CrackerIsland/template
 
@@ -15,30 +17,42 @@
     theme: Cracker Island (album) by Gorillaz
     https://en.wikipedia.org/wiki/Cracker_Island
 -->
+
 <!-- profile view counter -->
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
-</p>
-<!-- quote -->
-<p align="center">
-  ${\color{#e24a79}{\textsf{╭───}}}$        ${\color{#e24a79}{\textsf{───╮}}}$ <br>
-  <br>
-  ${\color{#e24a79}{\textsf{On Cracker Island it was born}}}$ <br>
-  ${\color{#e24a79}{\textsf{To the collective of the dawn}}}$ <br>
-  ${\color{#e24a79}{\textsf{They were planting seeds at night}}}$ <br>
-  <br>
-  ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
-</p>
-<!-- decoration 1 -->
 <div align="center">
-  <img width="150" alt="TheLastCult_gorillaz" src="https://github.com/user-attachments/assets/5e1a658f-dfd2-4605-af11-47d2192e2bfe" />
-</div>
-<!-- overview -->
-<div align="center">
-  <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="70" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="70" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="70" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/Noodle"><img width="70" alt="ヌードル" src="https://github.com/user-attachments/assets/7e853319-3a35-4264-a0c7-987a7a96c017" /></a>
+    <table>
+        <td>
+            <p align="center">
+                <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /></a>
+            </p>
+            <!-- quote -->
+            <p align="center">
+                ${\color{#e24a79}{\textsf{╭───}}}$        ${\color{#e24a79}{\textsf{───╮}}}$
+                <br>
+                <br>
+                ${\color{#e24a79}{\textsf{On Cracker Island it was born}}}$
+                <br>
+                ${\color{#e24a79}{\textsf{To the collective of the dawn}}}$
+                <br>
+                ${\color{#e24a79}{\textsf{They were planting seeds at night}}}$
+                <br>
+                <br>
+                ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
+            </p>
+            <br>
+            <!-- decoration 1 -->
+            <div align="center">
+                <img width="150" alt="TheLastCult_gorillaz" src="https://github.com/user-attachments/assets/5e1a658f-dfd2-4605-af11-47d2192e2bfe" />
+            </div>
+            <!-- overview -->
+            <div align="center">
+                <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="70" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
+                <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="70" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>  
+                <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="70" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>  
+                <a href="https://gorillaz.fandom.com/wiki/Noodle"><img width="70" alt="ヌードル" src="https://github.com/user-attachments/assets/7e853319-3a35-4264-a0c7-987a7a96c017" /></a>
+            </div>
+        </td>
+    </table>
 </div>
 <br>
 <br>
@@ -71,40 +85,58 @@
           my nicknames: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
           ${\color{#e24a79}{\textsf{dotonaro, or yoru}}}$ <br>
           <br> 
-          i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$ <br>
-          not to mention, this readme <br>
-          is themed around the album <br>
+          i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$
+          <br>
+          not to mention, this readme
+          <br>
+          is themed around the album
+          <br>
           ${\color{#e24a79}{\textsf{Cracker Island}}}$
           <br>
           <br>
           ${\color{#e24a79}{\textsf{───}}}$
           <br>
           <br>
-          my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$, <br>
-          you can use masculine terms <br>
-          on me such as; bro & dude, <br>
-          just dont use feminine terms <br>
+          my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$,
+          <br>
+          you can use masculine terms
+          <br>
+          on me such as; bro & dude,
+          <br>
+          just dont use feminine terms
+          <br>
           on me as it is dysphoric for me.
           <br> 
-          <br> i am completely fine if you <br> 
-          accidentally used feminine terms <br>
-          on me unless you did it on purpose <br>
-          ${\color{#e24a79}{\textsf{(the flags on the bottom redirects to}}}$ <br>
+          <br>
+          i am completely fine if you
+          <br> 
+          accidentally used feminine terms
+          <br>
+          on me unless you did it on purpose
+          <br>
+          ${\color{#e24a79}{\textsf{(the flags on the bottom redirects to}}}$
+          <br>
           ${\color{#e24a79}{\textsf{lgbtqia+ wiki for more explanations)}}}$
           <br>
           <br>
-          <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="50" alt="Non-binary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" /></a>
-          <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="50" alt="Gender Dysphoria" src="https://github.com/user-attachments/assets/274000d2-d810-4bea-a957-8e238a39de73" /></a>
-          <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="50" alt="Bisexual" src="https://github.com/user-attachments/assets/6e530d12-140b-4782-ad60-bfcdffb7b70d" /></a>
+            <div align="center">
+                <table>
+                    <td>
+                          
+                        <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="50" alt="Non-binary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" /></a> 
+                        <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="50" alt="Gender Dysphoria" src="https://github.com/user-attachments/assets/274000d2-d810-4bea-a957-8e238a39de73" /></a> 
+                        <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="50" alt="Bisexual" src="https://github.com/user-attachments/assets/6e530d12-140b-4782-ad60-bfcdffb7b70d" /></a>
+                          
+                    </td>
+                </table>
+            </div>
         </details>
       </td>
     </tr>
   </tbody>
 </table>
 <div align="center">
-  <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Cracker_Island"><img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /></a>
+   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e24a79&bar_color_cover=false"></a><br><img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br><a href="https://en.wikipedia.org/wiki/Cracker_Island"><img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /></a>
 </div>
 
 <!-- beep -->
