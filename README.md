@@ -103,6 +103,7 @@
 </table>
 <div align="center">
   <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
+  <br>
   <a href="https://en.wikipedia.org/wiki/Cracker_Island"><img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /></a>
 </div>
 
