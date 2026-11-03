@@ -148,7 +148,7 @@ ___
           ${\color{#e24a79}{\textsf{these media or people(s)}}}$
           <br>
           <br>
-          ${\color{#e24a79}{\textsf{all medias & peoples listed has}}}$ 
+          ${\color{#e24a79}{\textsf{all medias and peoples listed has}}}$ 
           <br>
           ${\color{#e24a79}{\textsf{their own reason why are they}}}$ 
           <br>
