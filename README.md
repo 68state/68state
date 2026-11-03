@@ -161,8 +161,6 @@
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ dandys world
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ randiclus
-          <br>
           ${\color{#e24a79}{\textsf{-}}}$ die of death
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ cookie run
