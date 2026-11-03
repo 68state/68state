@@ -1,22 +1,28 @@
-<!-- message:
+<!-- forking disclaimer
     hello!
     
     yes, you can take inspiration or fork this repository,
-    template version (highly recommended if you want to fork):
-    https://github.com/CrackerIsland/template
-
-    alternatively, you can just copy if you do not want to show its forked:
-    https://github.com/CrackerIsland/template/blob/main/README.md?plain=1
+    but do star this repository if you are taking inspirations 
+    off mine or you have forked this repository
+--->
+<!-- message
+    repository made by me, dotonaro
     
-    ---
+    in any way, this repository is not vibecoded;
+    i learnt all of these and taken some tips from
+    reddit users, blogs, & github discussions.
+    any accusations of me using ai to make this
+    repository is false, i type all the syntax(s)
+    myself. i also word things out wrong half of
+    the time & i mix english (us) with english (uk).
+    please stop spreading disinformation or
+    misinformation from somebody, thanks!
     
-    repository made by dotonaro (@CrackerIsland/me)
-    star this repository if you are taking inspirations off mine
-    or you have forked this repository/the template
+    repository theme: Cracker Island (album)
+    album by british virtual band Gorillaz
     
-    theme: Cracker Island (album) by Gorillaz
-    https://en.wikipedia.org/wiki/Cracker_Island
--->
+    (https://en.wikipedia.org/wiki/Cracker_Island)
+--->
 
 <!-- profile view counter -->
 <div align="center">
@@ -90,7 +96,7 @@
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ forsaken
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ qwel's supporter
+          ${\color{#e24a79}{\textsf{-}}}$ qwels supporter
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ <a href="https://dni-criteria.carrd.co/">basic dni criteria</a>
           <br>
