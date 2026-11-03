@@ -1,3 +1,5 @@
+hey im remaking this ok
+
 <!-- profile view counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&username=Iimbus&color=59eb62&style=plastic&label=pirate+radio">
