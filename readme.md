@@ -60,12 +60,14 @@
           <br> 
           <br> i am completely fine if you <br> 
           accidentally used feminine terms <br>
-          on me unless you did it on purpose
+          on me unless you did it on purpose <br>
+          ${\color{#e24a79}{\textsf{(the flags on the bottom redirects to}}}$ <br>
+          ${\color{#e24a79}{\textsf{lgbtqia for more explanations)}}}$
           <br>
           <br>
-          <img width="50" alt="Nonbinary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" />
-          <img width="50" alt="Gender dysphoria" src="https://github.com/user-attachments/assets/274000d2-d810-4bea-a957-8e238a39de73" />
-          <img width="50" alt="Bisexual" src="https://github.com/user-attachments/assets/6e530d12-140b-4782-ad60-bfcdffb7b70d" />
+          <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="50" alt="Non-binary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" /></a>
+          <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="50" alt="Gender Dysphoria" src="https://github.com/user-attachments/assets/274000d2-d810-4bea-a957-8e238a39de73" /></a>
+          <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="50" alt="Bisexual" src="https://github.com/user-attachments/assets/6e530d12-140b-4782-ad60-bfcdffb7b70d" /></a>
         </details>
       </td>
     </tr>
