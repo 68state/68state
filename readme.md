@@ -18,9 +18,9 @@
 </p>
 <!-- overview -->
 <div align="center">
-  <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="100" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>
-  <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="100" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>
-  <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="100" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>
+  <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="100" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
+  <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="100" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>  
+  <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="100" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>  
   <a href="https://gorillaz.fandom.com/wiki/Noodle"><img width="100" alt="ヌードル" src="https://github.com/user-attachments/assets/7e853319-3a35-4264-a0c7-987a7a96c017" /></a>
 </div>
 <br>
