@@ -52,7 +52,15 @@
         <details>
           <summary>     ${\color{#e24a79}{\textsf{GENERAL INFORMATION...}}}$     <br><div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
-          my pronouns are they/them, you can use masculine terms on me such as; bro & dude, just dont use feminine terms on me as it is dysphoric for me. i am completely fine if you accidentally used feminine terms on me unless you did it on purpose
+          my pronouns are they/them, <br>
+          you can use masculine terms <br>
+          on me such as; bro & dude, <br>
+          just dont use feminine terms <br>
+          on me as it is dysphoric for me.
+          <br> 
+          <br> i am completely fine if you <br> 
+          accidentally used feminine terms <br>
+          on me unless you did it on purpose
           <br>
           <br>
           <img width="50" alt="Nonbinary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" />
