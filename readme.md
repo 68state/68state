@@ -52,6 +52,8 @@
         <details>
           <summary>     ${\color{#e24a79}{\textsf{GENERAL INFORMATION...}}}$     <br><div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
+          my nicknames: ${\color{#e24a79}{\textsf{(ilo (iloides),}}}$ <br>
+          ${\color{#e24a79}{\textsf{(dotonaro (more common), or yoru}}}$
           my pronouns are they/them, <br>
           you can use masculine terms <br>
           on me such as; bro & dude, <br>
