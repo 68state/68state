@@ -140,11 +140,18 @@
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ radqueer
           <br>
-          ${\color{#e24a79}{\textsf{i will ignore you purposely}}}$ 
+          ${\color{#e24a79}{\textsf{i will be ignoring you purposely}}}$ 
           <br>
           ${\color{#e24a79}{\textsf{or block if you support any of}}}$ 
           <br>
-          ${\color{#e24a79}{\textsf{these media or people(s)}}}$ 
+          ${\color{#e24a79}{\textsf{these media or people(s)}}}$
+          <br>
+          <br>
+          ${\color{#e24a79}{\textsf{all medias, peoples listed has}}}$ 
+          <br>
+          ${\color{#e24a79}{\textsf{their own reason why are they}}}$ 
+          <br>
+          ${\color{#e24a79}{\textsf{listed on my do not interact(s)}}}$ 
           <br>
           <br>
           ${\color{#e24a79}{\textsf{───}}}$
