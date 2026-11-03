@@ -68,7 +68,12 @@
           <br>
           my nicknames: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
           ${\color{#e24a79}{\textsf{dotonaro, or yoru}}}$ <br>
-          <br>
+          <br> 
+            i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$ <br>
+            not to mention, this readme
+            is themed around the album
+            ${\color{#e24a79}{\textsf{Cracker Island}}}$
+            <br>
           my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$, <br>
           you can use masculine terms <br>
           on me such as; bro & dude, <br>
