@@ -1,6 +1,6 @@
 <!-- profile view counter -->
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86%20FOREVER%20CULT&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
 </p>
 <!-- decoration 1 -->
 <div align="center">
