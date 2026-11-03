@@ -19,7 +19,7 @@
     misinformation from somebody, thanks!
     
     repository theme: Cracker Island (album)
-    album by british virtual band Gorillaz
+    an album made by Gorillaz
     
     (https://en.wikipedia.org/wiki/Cracker_Island)
 --->
