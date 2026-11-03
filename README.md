@@ -33,10 +33,10 @@
 </p>
 <!-- overview -->
 <div align="center">
-  <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="100" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="100" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="100" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>  
-  <a href="https://gorillaz.fandom.com/wiki/Noodle"><img width="100" alt="ヌードル" src="https://github.com/user-attachments/assets/7e853319-3a35-4264-a0c7-987a7a96c017" /></a>
+  <a href="https://gorillaz.fandom.com/wiki/Russel_Hobbs"><img width="70" alt="Russel Hobbs" src="https://github.com/user-attachments/assets/99755a0b-c124-4fcd-9d2b-82ca5d30e0e4" /></a>  
+  <a href="https://gorillaz.fandom.com/wiki/Murdoc_Niccals"><img width="70" alt="Murdoc Faust Niccals" src="https://github.com/user-attachments/assets/3727db49-a894-411a-90d2-917d9172be2d" /></a>  
+  <a href="https://gorillaz.fandom.com/wiki/2-D"><img width="70" alt="Stuart Harold '2-D' Tusspot" src="https://github.com/user-attachments/assets/80f58759-6c9e-46db-a055-78cbc189b62f" /></a>  
+  <a href="https://gorillaz.fandom.com/wiki/Noodle"><img width="70" alt="ヌードル" src="https://github.com/user-attachments/assets/7e853319-3a35-4264-a0c7-987a7a96c017" /></a>
 </div>
 <br>
 <br>
@@ -69,11 +69,15 @@
           my nicknames: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
           ${\color{#e24a79}{\textsf{dotonaro, or yoru}}}$ <br>
           <br> 
-            i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$ <br>
-            not to mention, this readme
-            is themed around the album
-            ${\color{#e24a79}{\textsf{Cracker Island}}}$
-            <br>
+          i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$ <br>
+          not to mention, this readme <br>
+          is themed around the album <br>
+          ${\color{#e24a79}{\textsf{Cracker Island}}}$
+          <br>
+          <br>
+          ${\color{#e24a79}{\textsf{───}}}$
+          <br>
+          <br>
           my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$, <br>
           you can use masculine terms <br>
           on me such as; bro & dude, <br>
@@ -84,7 +88,7 @@
           accidentally used feminine terms <br>
           on me unless you did it on purpose <br>
           ${\color{#e24a79}{\textsf{(the flags on the bottom redirects to}}}$ <br>
-          ${\color{#e24a79}{\textsf{lgbtqia for more explanations)}}}$
+          ${\color{#e24a79}{\textsf{lgbtqia+ wiki for more explanations)}}}$
           <br>
           <br>
           <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="50" alt="Non-binary" src="https://github.com/user-attachments/assets/44a96c0e-d337-45b0-9e45-77b23d9b251e" /></a>
