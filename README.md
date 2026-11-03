@@ -70,7 +70,8 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=S03T47hapAc"><img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" /></a>
 </div>
-<br>
+
+___
 <!-- table of content + middle picture decoration -->
 <table align="left">
   <tbody>
