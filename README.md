@@ -1,3 +1,14 @@
+<!-- message:
+    you can take inspiration or fork this repository, i do not mind
+    template version may be created
+    
+    ---
+    
+    repository made by dotonaro (@CrackerIsland/me)
+    
+    theme: Cracker Island (album) by Gorillaz
+    https://en.wikipedia.org/wiki/Cracker_Island
+-->
 <!-- profile view counter -->
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcrackerisland%2Fcrackerisland&label=%E2%98%86&labelColor=%23e24a79&countColor=%23e24a79&style=flat-square&labelStyle=upper" /> </a>
@@ -80,8 +91,3 @@
   <img width="210" alt="sheet paper" src="https://github.com/user-attachments/assets/09a6435b-ccaa-4c9d-8a30-71abceb64d71" /><br>
   <img width="250" alt="Pazuzu_crackerisland" src="https://github.com/user-attachments/assets/453ad143-2ef1-44bd-b9e5-a6fc455c1167" /><br>
 </div>
-<!-- extra -->
-<p align="center">
-  ${\color{#e24a79}{\textsf{GitHub README.md by @CrackerIsland}}}$<br>
-  ${\color{#e24a79}{\textsf{Theme: Cracker Island (album) by Gorillaz}}}$
-</p>
