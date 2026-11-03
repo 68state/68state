@@ -1,6 +1,10 @@
 <!-- message:
-    you can take inspiration or fork this repository, i do not mind
-    template version may be created
+    you can take inspiration or fork this repository,
+    template version (highly recommended if you want to fork):
+    https://github.com/CrackerIsland/template
+
+    alternatively, you can just copy if you do not want to show its forked:
+    https://github.com/CrackerIsland/template/blob/main/README.md?plain=1
     
     ---
     
