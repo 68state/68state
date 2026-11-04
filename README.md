@@ -227,6 +227,11 @@ ___
           ${\color{#e24a79}{\textsf{server}}}$ & ${\color{#e24a79}{\textsf{18+ server,}}}$
           <br>
           <br>
+          also, my ${\color{#e24a79}{\textsf{usual}}}$ skin!
+          <br>
+          <img width="192" alt="Rivulet" src="https://github.com/user-attachments/assets/454353f9-852c-414b-86ad-a904f96cc67f" />
+          <br>
+          <br>
           ${\color{#e24a79}{\textsf{───}}}$
           <br>
           <br>
