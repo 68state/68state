@@ -273,4 +273,6 @@ ___
 <details>
     <summary> </summary>
     <img width="800" alt="Recording 2026-11-03 161343" src="https://github.com/user-attachments/assets/fadd0cbf-9053-4225-ad2e-13ba5503560c" />
+    <br>
+    <img width="1080" alt="940837993a2f331aa9e6" src="https://github.com/user-attachments/assets/d51d7b8b-d0c9-4e3b-aef5-576e8dd72f63" />
 </details>
