@@ -106,11 +106,11 @@ ___
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ qwel
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ lolicon
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://en.wikipedia.org/wiki/Lolicon">lolicon</a>
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ sexualises animals
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ incest
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://en.wikipedia.org/wiki/Incest">incest</a>
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ funamusea
           <br>
@@ -122,7 +122,7 @@ ___
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ idaios
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ merffinn
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://x.com/Bliss_SMP/status/1903341347253207168">merffinn</a>
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ judelow
           <br>
@@ -142,7 +142,7 @@ ___
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ gender stereotyping
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ radqueer
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://lgbtqia.wiki/wiki/Radqueer">radqueer</a>
           <br>
           ${\color{#e24a79}{\textsf{i will be ignoring you purposely}}}$ 
           <br>
