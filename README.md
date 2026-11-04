@@ -100,7 +100,7 @@ ___
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ <a href="https://dni-criteria.carrd.co/">basic dni criteria</a>
           <br>
-          ${\color{#e24a79}{\textsf{-}}}$ forsaken
+          ${\color{#e24a79}{\textsf{-}}}$ <a href="https://en.namu.wiki/w/Forsaken(Roblox)/%EB%85%BC%EB%9E%80%20%EB%B0%8F%20%EC%82%AC%EA%B1%B4%20%EC%82%AC%EA%B3%A0">forsaken</a>
           <br>
           ${\color{#e24a79}{\textsf{-}}}$ boundary breaker
           <br>
