@@ -45,7 +45,12 @@
                 <br>
                 ${\color{#e24a79}{\textsf{╰───}}}$        ${\color{#e24a79}{\textsf{───╯}}}$
             </p>
-            <br>
+            <div align="center">
+                <details>
+                    <summary>     ${\color{#e24a79}{\textsf{spotify embed}}}$     </summary>
+                        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=e24a79&bar_color_cover=false"></a>
+                </details>
+            </div>
             <!-- decoration 1 -->
             <table>
                 <td>
@@ -68,7 +73,7 @@
 <br>
 <!-- decoration 2 -->
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=S03T47hapAc"><img width="1200" alt="CrackerIsland_gorillaz" src="https://github.com/user-attachments/assets/5647e09f-6c0a-4b94-83ef-36b8f74cf6f1" /></a>
+  <a href="https://www.youtube.com/watch?v=_0Pf48RqSsg"><img width="1300" alt="Silent Running" src="https://github.com/user-attachments/assets/3f4b47f4-964e-4282-b1aa-a783213f760c" /></a>
 </div>
 
 ___
@@ -214,9 +219,12 @@ ___
           <br>
           i typically go on ${\color{#e24a79}{\textsf{safe server (1),}}}$
           <br>
-          ${\color{#e24a79}{\textsf{safe server (2),}}}$ and rarely ${\color{#e24a79}{\textsf{indonesia server}}}$
+          ${\color{#e24a79}{\textsf{safe server (2),}}}$ and rarely ${\color{#e24a79}{\textsf{indonesia}}}$
           <br>
-          & ${\color{#e24a79}{\textsf{18+ server,}}}$
+          ${\color{#e24a79}{\textsf{server}}}$ & ${\color{#e24a79}{\textsf{18+ server,}}}$
+          <br>
+          <br>
+          ${\color{#e24a79}{\textsf{───}}}$
           <br>
           <br>
           my pronouns are ${\color{#e24a79}{\textsf{they/them}}}$,
