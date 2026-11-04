@@ -199,7 +199,7 @@ ___
           <br>
           i go under alias: ${\color{#e24a79}{\textsf{Kasa Jizo}}}$
           <br>
-          alternatively you can use other aliases:
+          alternatively, you can use other aliases:
           <br>
           ${\color{#e24a79}{\textsf{ilo,}}}$ ${\color{#e24a79}{\textsf{dotonaro,}}}$ or ${\color{#e24a79}{\textsf{ yoru}}}$ <br>
           <br>
