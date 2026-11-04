@@ -197,7 +197,7 @@ ___
         <details>
           <summary>     ${\color{#e24a79}{\textsf{GENERAL INFORMATION...}}}$     <br><div align="center"><img width="30" alt="TheThunder" src="https://github.com/user-attachments/assets/8d5e3333-ceac-42cd-aa05-931a3ff972ea" /></div></summary>
           <br>
-          i go under alias: ${\color{#e24a79}{\textsf{-}}}$Kasa Jizo}}}$
+          i go under alias: ${\color{#e24a79}{\textsf{Kasa Jizo}}}$
           <br>
           alternatively you can use other aliases: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
           ${\color{#e24a79}{\textsf{dotonaro,}}}$ or ${\color{#e24a79}{\textsf{ yoru}}}$ <br>
