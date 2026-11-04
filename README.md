@@ -212,9 +212,9 @@ ___
           ${\color{#e24a79}{\textsf{───}}}$
           <br>
           <br>
-          i typically go on ${\color{#e24a79}{\textsf{safe server #1,}}}$
+          i typically go on ${\color{#e24a79}{\textsf{safe server (1),}}}$
           <br>
-          ${\color{#e24a79}{\textsf{safe server #2,}}}$ and rarely ${\color{#e24a79}{\textsf{indonesia server}}}$
+          ${\color{#e24a79}{\textsf{safe server (2),}}}$ and rarely ${\color{#e24a79}{\textsf{indonesia server}}}$
           <br>
           & ${\color{#e24a79}{\textsf{18+ server,}}}$
           <br>
