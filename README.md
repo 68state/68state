@@ -85,9 +85,7 @@ ___
           not answer right away.
           <br>
           <br>
-          i ${\color{#e24a79}{\textsf{...}}}$ am socially awkward, 
-          <br>
-          so i ${\color{#e24a79}{\textsf{wont talk that much}}}$
+          and i also ${\color{#e24a79}{\textsf{block freely}}}$
           <br>
           <br>
           ${\color{#e24a79}{\textsf{───}}}$
@@ -196,6 +194,8 @@ ___
           <br>
           my nicknames: ${\color{#e24a79}{\textsf{ilo,}}}$ <br>
           ${\color{#e24a79}{\textsf{dotonaro,}}}$ or ${\color{#e24a79}{\textsf{ yoru}}}$ <br>
+          <br>
+          i am the ${\color{#e24a79}{\textsf{true}}}$ #1 glazer of Shiomi Yoru
           <br> 
           i am a huge fan of ${\color{#e24a79}{\textsf{gorillaz}}}$
           <br>
