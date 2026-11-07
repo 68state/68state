@@ -6,6 +6,8 @@
   well heat my canned and call me jamiroquai
   <br>
   <img width="800" src="https://github.com/user-attachments/assets/92f0a47d-907a-4ce7-a19d-c461b1442376" />
+  <br>
+  the gif dont render at some point for some reason
 </div>
 <br>
 also
