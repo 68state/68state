@@ -5,10 +5,11 @@
   <br>
 </div>
 <br>
-all markdown works ive done:
+all things ive done on github:
 <br>
 - <a href="https://github.com/conflux-warp/conflux-warp">conflux-warp/conflux-warp (profile readme)</a>
 <br>
 - <a href="https://github.com/araya-shiki/old-readme">mine previous profile readme (aka crackerisland/crackerisland)</a>
+- <a href="https://conflux-warp.github.io">conflux-warp/conflux-warp.github.io (in progress</a>
 <br>
 ^ i only do those thing for people if i have their discord/know them or i feel like it
