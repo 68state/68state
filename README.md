@@ -7,8 +7,8 @@
 <br>
 all markdown works ive done:
 <br>
-- <a href="https://github.com/conflux-warp/conflux-warp">conflux warp (profile readme)</a>
+- <a href="https://github.com/conflux-warp/conflux-warp">conflux-warp/conflux-warp (profile readme)</a>
 <br>
-- <a href="https://github.com/araya-shiki/old-readme">mine previous profile readme</a>
+- <a href="https://github.com/araya-shiki/old-readme">mine previous profile readme (aka crackerisland/crackerisland)/a>
 <br>
 ^ i only do those thing for people if i have their discord/know them or i feel like it
