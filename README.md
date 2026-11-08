@@ -10,6 +10,8 @@
   the gif dont render at some point for some reason
 </div>
 <br>
-also
+all markdown works ive done:
 <br>
-<img width="472" alt="image" src="https://github.com/user-attachments/assets/23739cc7-ab59-4824-9edd-2a6484ca38c4" />
+- <a href="https://github.com/conflux-warp/conflux-warp">conflux warp (profile readme)</a>
+<br>
+- <a href="https://github.com/araya-shiki/old-readme">mine previous profile readme</a>
