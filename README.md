@@ -10,7 +10,7 @@
       </div>
       <br>
       <div align="center">
-        ${\color{#6b473c}{\textsf{𓎢𓎟𓎡}}}$
+        ${\color{#8c5d4f}{\textsf{𓎢𓎟𓎡}}}$
       </div>
     </td>
   </table>
