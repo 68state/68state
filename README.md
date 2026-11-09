@@ -12,6 +12,9 @@
       <div align="center">
         ${\color{#cfa07a}{\textsf{𓎢𓎟𓎡}}}$
       </div>
+      <div align="center">
+        <img width="800" src="https://github.com/araya-shiki/ARAYA-SHIKI/blob/main/resources/images/SnoopDogg-LodiDodiOfficialMusicVideo-SnoopDoggVEVO1080ph264-ezgif.com-video-to-gif-converter.gif"/>
+      </div>
     </td>
   </table>
 </div>
