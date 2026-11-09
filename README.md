@@ -5,7 +5,7 @@
     <td>
       <div align="center">
         <kbd>
-          badge placeholder
+          hey ive been pissed off well extremely while writing this markdown or syntax or literally any term youd like to call it so bozo exiting
         </kbd>
       </div>
       <br>
