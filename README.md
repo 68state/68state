@@ -100,5 +100,13 @@ desktop view recommended
         <br>
         <img src="resources/images/jamiroquai.gif" alt="jamiroquai" />
         <img src="resources/images/humanz_2d_gorillaz.jpg" alt="2d gorillaz (humanz)" />
+        <br>
+        <img src="resources/images/evanescence_blinky.gif" alt="evanescence" />
+        <img src="resources/images/green_day_blinky.gif" alt="green day" />
+        <img src="resources/images/systemofadown_blinky.jpg" alt="system of a down" />
+        <img src="resources/images/linkinpark_blinky.gif" alt="linkin park" />
+        <img src="resources/images/kornband_blinky.gif" alt="korn" />
+        <img src="resources/images/piercetheveil_blinky.gif" alt="pierce the veil" />
+        <img src="resources/images/radiohead_blinky.jpg" alt="radiohead" />
     </details>
 </div>
