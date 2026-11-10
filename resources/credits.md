@@ -5,3 +5,9 @@ credits:
 <a href="https://www.tumblr.com/pixopix">pixopix on tumblr</a> ~ <a href="https://www.tumblr.com/pixopix/798069015308353536/mountain-dew-dividers-please-credit-pixopix">blog origin</a>
 
 ___
+
+- this thing
+<br>
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/22ab93ae-8262-4bfa-8064-d3461d764a3b" />
+<br>
+tahst ̶d̶a̶m̶o̶n̶ ̶a̶l̶b̶a̶r̶n̶ dan abnormal byt he way <a href="https://x.com/Corlosseynoey">@corlosseynoey on twitter</a>
