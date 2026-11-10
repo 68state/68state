@@ -41,7 +41,7 @@
             <br>
             ${\color{#c0f545}{\textsf{|꛱˳͡ 𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
             <br>
-            ⠀⠀${\color{#c0f545}{\textsf{⠀⠀⠀ ͜͝ |⠀⠀}}}$⠀⠀ they (nonbinary terms) ⠀ ࣪ 　 ۫
+           ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀⠀ ͜͝ |⠀⠀⠀⠀ they /them ⠀ ࣪ 　 ۫ }}}$
             <br>
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{𓎢𓎟𓎡}}}$ ⠀ ⠀ 𓈒　 ׅ　
             <br>
