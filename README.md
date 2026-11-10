@@ -87,3 +87,15 @@ desktop view recommended
   <img src="placeholder" width="30%" alt="1" />
   <img src="placeholder" width="30%" alt= "2" />
 </p>
+<!-- miscellaneous markdown -->
+<div align="center">
+    <details>
+        <summary>${\color{#c0f545}{\textsf{collection}}}$</summary>
+        these are all related to what i like or my interest
+        <br>
+        <img src="resources/images/mf_doom.jpg" alt="mf doom/metal face" />
+        <img src="resources/images/green_day.gif" alt="green day (american idiot)" />
+        <br>
+        <img src="resources/images/jamiroquai.gif" alt="jamiroquai" />
+    </details>
+</div>
