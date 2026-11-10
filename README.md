@@ -33,7 +33,6 @@
           <div align="center">
               <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
           </div>
-          <br>
         <div align="center">
           <kbd>
             <img src="resources/images/mail.gif" />
