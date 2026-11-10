@@ -43,11 +43,14 @@
                     </kbd>
                     <br>
                     <br>
-                    ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
+                    ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫⠀⠀⠀✿}}}$ ⠀⠀⠀bozo / yoru
                     <br>
-                    ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀ ͜͝ | ๋࣭⠀⠀⠀⠀𓈃⠀ they / them ⠀ ࣪ 　 ۫ }}}$
+                    ⠀
+                    ${\color{#c0f545}{\textsf{ ͜͝ | ๋࣭⠀}}}$
+                    <img src="resources/images/leaf.gif"/>
+                    ⠀𓈃⠀ ${\color{#c0f545}{\textsf{they}}}$ / ${\color{#c0f545}{\textsf{them}}}$
                     <br>
-                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀⠀⠀𓎢𓎟𓎡}}}$
+                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢𓎟𓎡}}}$
                     <br>
                     <br>
                     <kbd>
