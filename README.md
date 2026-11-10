@@ -21,7 +21,9 @@
     bozo exiting
 --->
 <!-- main markdown -->
-<img src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left"  width="420" alt="Standalone Left Image" style="margin-right: 20px;" />
+<div align="left">
+    <img width="430" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
+</div>
 <br>
 <br>
 <br>
