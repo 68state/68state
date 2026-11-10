@@ -31,7 +31,9 @@
     <table>
         <tr>
             <td>
-                <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                <div align="center">
+                    <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                </div>
             </td>
         </tr>
         <tr>
@@ -61,6 +63,9 @@
                         ⠀⠀
                     </kbd>
                     <br>
+                    <img src="resources/images/stamp1.gif" hspace="2" />
+                    <img src="resources/images/stamp2.gif" hspace="2" />
+                    <br>
                     placeholder placeholder placeholder placeholder 
                     <br>
                     <a href="resources/credits.md">credits</a>
@@ -69,7 +74,9 @@
         </tr>
         <tr>
             <td>
-                <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                <div align="center">
+                    <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                </div>
             </td>
         </tr>
     </table>
