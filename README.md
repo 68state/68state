@@ -27,17 +27,19 @@
 <br>
 <br>
 <br>
-<p align="center">
-  <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
-</p>
 <div align="right">
     <table align="center">
       <td>
+          <div align="center">
+              <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+          </div>
+          <br>
         <div align="center">
           <kbd>
             <img src="resources/images/mail.gif" />
             <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
           </kbd>
+            <br>
             <br>
             ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
             <br>
@@ -58,13 +60,14 @@
             <br>
             <a href="resources/credits.md">credits</a>
         </div>
+          <br>
+          <div align="center">
+              <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+          </div>
       </td>
     </table>
 </div>
-<p align="center">
-  <img width="345" src="resources/images/ladewdew.gif" alt="green_border2" />
-</p>
-<p align="center">
+<div align="center">
   <img src="placeholder" width="30%" alt="1" />
   <img src="placeholder" width="30%" alt= "2" />
 </p>
