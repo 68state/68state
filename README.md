@@ -60,6 +60,8 @@
                     <br>
                     ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫ ྀིྀིྀིྀིྀི ˚̣̣̣♪}}}$
                     <br>
+                    <img width="200" src="resources/images/sparkle.jpg" />
+                    <br>
                     <img src="resources/images/stamp1.gif" />
                     <img src="resources/images/stamp2.gif" />
                     <br>
