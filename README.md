@@ -108,5 +108,6 @@ desktop view recommended
         <img src="resources/images/kornband_blinky.gif" alt="korn" />
         <img src="resources/images/piercetheveil_blinky.gif" alt="pierce the veil" />
         <img src="resources/images/radiohead_blinky.jpg" alt="radiohead" />
+        <img src="resources/images/rammstein_blinky.jpg" alt="rammstein" />
     </details>
 </div>
