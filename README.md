@@ -25,8 +25,6 @@
     <img width="430" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
 </div>
 <br>
-<br>
-<br>
 <div align="right">
     <table>
         <tr>
@@ -44,29 +42,26 @@
                         <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
                     </kbd>
                     <br>
-                    <br>
                     ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫⠀⠀⠀✿}}}$ ⠀⠀⠀bozo / yoru
                     <br>
                     ⠀
-                    ${\color{#c0f545}{\textsf{ ͜͝ | ๋࣭⠀}}}$
+                    ${\color{#c0f545}{\textsf{ ๋࣭⠀}}}$
+                    ⠀𓈃⠀ ${\color{#c0f545}{\textsf{they}}}$ / ${\color{#c0f545}{\textsf{them}}}$ ⠀
                     <img src="resources/images/leaf.gif"/>
-                    ⠀𓈃⠀ ${\color{#c0f545}{\textsf{they}}}$ / ${\color{#c0f545}{\textsf{them}}}$
+                    ${\color{#c0f545}{\textsf{⠀ ͜͝ |}}}$
                     <br>
-                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢𓎟𓎡}}}$
-                    <br>
+                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ࿐
                     <br>
                     <kbd>
-                        ⠀⠀
                         <img width="53" src="resources/images/nonbinary.png" />
                         <img width="53" src="resources/images/dysphoria.png" />
                         <img width="53" src="resources/images/bisexual.png" />
-                        ⠀⠀
                     </kbd>
                     <br>
-                    <img src="resources/images/stamp1.gif" hspace="2" />
-                    <img src="resources/images/stamp2.gif" hspace="2" />
+                    ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫ ྀིྀིྀིྀིྀི ˚̣̣̣♪}}}$
                     <br>
-                    placeholder placeholder placeholder placeholder 
+                    <img src="resources/images/stamp1.gif" />
+                    <img src="resources/images/stamp2.gif" />
                     <br>
                     <a href="resources/credits.md">credits</a>
                 </div>
