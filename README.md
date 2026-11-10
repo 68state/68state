@@ -93,9 +93,12 @@ desktop view recommended
         <summary>${\color{#c0f545}{\textsf{collection}}}$</summary>
         these are all related to what i like or my interest
         <br>
-        <img src="resources/images/mf_doom.jpg" alt="mf doom/metal face" />
+        <img src="resources/images/mf_doom.jpg" alt="mf doom/metal face (doomsday)" />
+        <img src="resources/images/blur_parklife.jpg" alt="blur (parklife)" />
+        <img src="resources/images/gbrother_oasis.jpg" alt="gallagher brother (oasis)" />
         <img src="resources/images/green_day.gif" alt="green day (american idiot)" />
         <br>
         <img src="resources/images/jamiroquai.gif" alt="jamiroquai" />
+        <img src="resources/images/humanz_2d_gorillaz.jpg" alt="2d gorillaz (humanz)" />
     </details>
 </div>
