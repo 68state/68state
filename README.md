@@ -43,16 +43,16 @@
             <br>
            ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀ ͜͝ | ๋࣭⠀⠀⠀⠀𓈃⠀ they / them ⠀ ࣪ 　 ۫ }}}$
             <br>
-            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{𓎢𓎟𓎡}}}$ ⠀ 𓈒　 ׅ　
+            ⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀⠀⠀𓎢𓎟𓎡}}}$
             <br>
             <br>
             <kbd>
-                <img width="40" src="resources/images/nonbinary.png">
-                <img width="40" src="resources/images/dysphoria.png">
-                <img width="40" src="resources/images/bisexual.png">
+                ⠀⠀
+                <img width="53" src="resources/images/nonbinary.png" />
+                <img width="53" src="resources/images/dysphoria.png" />
+                <img width="53" src="resources/images/bisexual.png" />
+                ⠀⠀
             </kbd>
-            <br>
-            𓎢𓎟𓎡 　 
             <br>
             placeholder placeholder placeholder placeholder 
             <br>
