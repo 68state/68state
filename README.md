@@ -39,11 +39,11 @@
             <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
           </kbd>
             <br>
-            ${\color{#c0f545}{\textsf{|꛱˳͡ 𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
+            ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི 𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
             <br>
-           ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀⠀ ͜͝ |⠀⠀⠀⠀ they /them ⠀ ࣪ 　 ۫ }}}$
+           ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀ ͜͝ | ๋࣭⠀⠀⠀⠀𓈃⠀ they / them ⠀ ࣪ 　 ۫ }}}$
             <br>
-            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{𓎢𓎟𓎡}}}$ ⠀ ⠀ 𓈒　 ׅ　
+            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{𓎢𓎟𓎡}}}$ ⠀ 𓈒　 ׅ　
             <br>
             <br>
             <kbd>
