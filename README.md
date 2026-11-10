@@ -22,7 +22,7 @@
 --->
 <!-- main markdown -->
 <div align="left">
-    <img width="430" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
+    <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
 </div>
 <br>
 <div align="right">
