@@ -28,12 +28,15 @@
 <br>
 <br>
 <div align="right">
-    <table align="center">
-      <td>
-          <div align="center">
-              <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
-          </div>
-        <div align="center">
+    <table>
+        <tr>
+            <td>
+                <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
           <kbd>
             <img src="resources/images/mail.gif" />
             <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
@@ -59,9 +62,24 @@
             <br>
             <a href="resources/credits.md">credits</a>
         </div>
-          <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+            </td>
+        </tr>
+    </table>
+    
+    test
+    <table align="center">
+      <td>
           <div align="center">
               <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+          </div>
+        
+          <br>
+          <div align="center">
           </div>
       </td>
     </table>
