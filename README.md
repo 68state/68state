@@ -94,8 +94,8 @@ desktop view recommended
         these are all related to what i like or my interest
         <br>
         <img src="resources/images/mf_doom.jpg" alt="mf doom/metal face (doomsday)" />
-        <img src="resources/images/blur_parklife.jpg" alt="blur (parklife)" />
-        <img src="resources/images/gbrother_oasis.jpg" alt="gallagher brother (oasis)" />
+        <img width="97" src="resources/images/blur_parklife.jpg" alt="blur (parklife)" />
+        <img width="97" src="resources/images/gbrother_oasis.jpg" alt="gallagher brother (oasis)" />
         <img src="resources/images/green_day.gif" alt="green day (american idiot)" />
         <br>
         <img src="resources/images/jamiroquai.gif" alt="jamiroquai" />
