@@ -23,7 +23,7 @@
 <!-- main markdown -->
 <img src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left"  width="420" alt="Standalone Left Image" style="margin-right: 20px;" />
 <p align="center">
-  <img width="340" src="resources/images/ladewdew.gif" alt="green_border1" />
+  <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
 </p>
 <div align="right">
   <table align="center">
@@ -57,7 +57,7 @@
   </table>
 </div>
 <p align="center">
-  <img width="340" src="resources/images/ladewdew.gif" alt="green_border2" />
+  <img width="345" src="resources/images/ladewdew.gif" alt="green_border2" />
 </p>
 <p align="center">
   <img src="placeholder" width="30%" alt="1" />
