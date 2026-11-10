@@ -37,31 +37,31 @@
         <tr>
             <td>
                 <div align="center">
-          <kbd>
-            <img src="resources/images/mail.gif" />
-            <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
-          </kbd>
-            <br>
-            <br>
-            ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
-            <br>
-           ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀ ͜͝ | ๋࣭⠀⠀⠀⠀𓈃⠀ they / them ⠀ ࣪ 　 ۫ }}}$
-            <br>
-            ⠀⠀⠀⠀⠀ ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀⠀⠀𓎢𓎟𓎡}}}$
-            <br>
-            <br>
-            <kbd>
-                ⠀⠀
-                <img width="53" src="resources/images/nonbinary.png" />
-                <img width="53" src="resources/images/dysphoria.png" />
-                <img width="53" src="resources/images/bisexual.png" />
-                ⠀⠀
-            </kbd>
-            <br>
-            placeholder placeholder placeholder placeholder 
-            <br>
-            <a href="resources/credits.md">credits</a>
-        </div>
+                    <kbd>
+                        <img src="resources/images/mail.gif" />
+                        <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
+                    </kbd>
+                    <br>
+                    <br>
+                    ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫✿}}}$ ⠀⠀⠀bozo / yoru
+                    <br>
+                    ${\color{#c0f545}{\textsf{⠀ ⠀⠀⠀ ͜͝ | ๋࣭⠀⠀⠀⠀𓈃⠀ they / them ⠀ ࣪ 　 ۫ }}}$
+                    <br>
+                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀⠀⠀𓎢𓎟𓎡}}}$
+                    <br>
+                    <br>
+                    <kbd>
+                        ⠀⠀
+                        <img width="53" src="resources/images/nonbinary.png" />
+                        <img width="53" src="resources/images/dysphoria.png" />
+                        <img width="53" src="resources/images/bisexual.png" />
+                        ⠀⠀
+                    </kbd>
+                    <br>
+                    placeholder placeholder placeholder placeholder 
+                    <br>
+                    <a href="resources/credits.md">credits</a>
+                </div>
             </td>
         </tr>
         <tr>
@@ -69,19 +69,6 @@
                 <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
             </td>
         </tr>
-    </table>
-    
-    test
-    <table align="center">
-      <td>
-          <div align="center">
-              <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
-          </div>
-        
-          <br>
-          <div align="center">
-          </div>
-      </td>
     </table>
 </div>
 <div align="center">
