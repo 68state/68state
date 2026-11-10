@@ -44,6 +44,8 @@
                     <br>
                     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eczar&size=19&duration=3000&color=D3F739&vCenter=true&multiline=true&width=240&height=80&lines=%E2%80%9C%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+Oh+joy's;Arise+the+sun+has+come+again+...;to%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+hold%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+you;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex" alt="Typing SVG" /></a>
                     <br>
+                    ${\color{#c0f545}{\textsf{───────}}}$
+                    <br>
                     ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫⠀⠀⠀✿}}}$ ⠀⠀⠀bozo / yoru
                     <br>
                     ⠀
