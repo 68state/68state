@@ -25,7 +25,6 @@ desktop view recommended
 <div align="left">
     <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
 </div>
-<br>
 <div align="right">
     <table>
         <tr>
