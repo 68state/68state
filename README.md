@@ -63,7 +63,7 @@ desktop view recommended
                         <img width="53" src="resources/images/bisexual.png" />
                     </kbd>
                     <br>
-                    ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫ ྀིྀིྀིྀིྀི ˚̣̣̣♪}}}$
+                    ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫ 𝜗᭪ ˚̣̣̣♪}}}$
                     <br>
                     <img width="200" src="resources/images/sparkle.jpg" />
                     <br>
