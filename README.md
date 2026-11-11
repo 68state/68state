@@ -24,6 +24,7 @@
 <!-- first table ~ primary -->
 desktop view + 80~67% zoom level recommended
 <div align="left">
+    ⠀⠀
     <br>
     <br>
     <br>
