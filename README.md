@@ -24,7 +24,10 @@
 <!-- first table ~ primary -->
 desktop view + 80~67% zoom level recommended
 <div align="left">
-    <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
+    <a href="https://en.wikipedia.org/wiki/Damon_Albarn">
+        <!-- i dont know whats the purpose of the wikipedia since most may not notice but i guess -->
+        <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
+    </a>
 </div>
 <div align="right">
     <table>
@@ -63,9 +66,15 @@ desktop view + 80~67% zoom level recommended
                     ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ${\color{#c0f545}{\textsf{࿐}}}$
                     <br>
                     <kbd>
-                        <img width="53" src="resources/images/nonbinary.png" />
-                        <img width="53" src="resources/images/dysphoria.png" />
-                        <img width="53" src="resources/images/bisexual.png" />
+                        <a href="https://lgbtqia.wiki/wiki/Non-Binary">
+                            <img width="53" src="resources/images/nonbinary.png" />
+                        </a>
+                        <a href="https://lgbtqia.wiki/wiki/Dysphoric">
+                            <img width="53" src="resources/images/dysphoria.png" />
+                        </a>
+                        <a href="https://lgbtqia.wiki/wiki/Bisexual">
+                            <img width="53" src="resources/images/bisexual.png" />
+                        </a>
                     </kbd>
                     <br>
                     ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫᭪ ˚̣̣̣♪}}}$
