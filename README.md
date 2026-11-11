@@ -36,11 +36,3 @@
     <br>
     <img src="resources/images/gorillazLogoSpray.gif" />
 </div>
- alt="rammstein" />
-    </details>
-</div>
-<div align="right">
-    <a href="https://battlecats.miraheze.org/wiki/Cat_(Normal_Cat)">
-        <img width="40" src="resources/images/cat.gif" />
-    </a>
-</div>
