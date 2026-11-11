@@ -100,10 +100,12 @@ desktop view + 80~67% zoom level recommended
     </table>
 </div>
 <div align="right">
-    <img width="55" alt="1" src="https://github.com/user-attachments/assets/8119182c-d8ac-4bd5-bea9-3ed3300af997" />
-    <img width="55" alt="2" src="https://github.com/user-attachments/assets/d370d7a7-6803-4156-a123-2695ad7db68b" />
-    <img width="55" alt="3" src="https://github.com/user-attachments/assets/4217ac19-ad0a-436e-8106-cfc7bdd3c16b" />
-    <img width="55" alt="4" src="https://github.com/user-attachments/assets/1cfb9702-ea9e-4152-857c-c6ae3320de68" />
+    <kbd>
+        <img width="55" alt="1" src="https://github.com/user-attachments/assets/8119182c-d8ac-4bd5-bea9-3ed3300af997" />
+        <img width="55" alt="2" src="https://github.com/user-attachments/assets/d370d7a7-6803-4156-a123-2695ad7db68b" />
+        <img width="55" alt="3" src="https://github.com/user-attachments/assets/4217ac19-ad0a-436e-8106-cfc7bdd3c16b" />
+        <img width="55" alt="4" src="https://github.com/user-attachments/assets/1cfb9702-ea9e-4152-857c-c6ae3320de68" />
+    </kbd>
     ⠀⠀⠀⠀⠀⠀
 </div>
 <br>
