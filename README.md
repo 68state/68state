@@ -23,6 +23,11 @@
 <!-- main markdown -->
 <!-- first table ~ primary -->
 desktop view + 80~67% zoom level recommended
+<div align="right">
+    <a href="https://battlecats.miraheze.org/wiki/Cat_(Normal_Cat)">
+        <img src="resources/images/cat.gif" />
+    </a>
+</div>
 <div align="left">
     <a href="https://en.wikipedia.org/wiki/Damon_Albarn">
         <!-- i dont know whats the purpose of the wikipedia since most may not notice but i guess -->
@@ -179,9 +184,4 @@ desktop view + 80~67% zoom level recommended
         <img src="resources/images/radiohead_blinky.jpg" alt="radiohead" />
         <img width="155" src="resources/images/rammstein_blinky.jpg" alt="rammstein" />
     </details>
-</div>
-<div align="right">
-    <a href="https://battlecats.miraheze.org/wiki/Cat_(Normal_Cat)">
-        <img src="resources/images/cat.gif" />
-    </a>
 </div>
