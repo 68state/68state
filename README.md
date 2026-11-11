@@ -124,8 +124,10 @@ desktop view + 80~67% zoom level recommended
                         (aka crackerisland/crackerisland)
                         <br>
                         - <a href="https://github.com/conflux-warp/conflux-warp.github.io">
-                            conflux-warp/conflux-warp.github.io (in progress)
+                            conflux-warp/conflux-warp.github.io
                         </a>
+                        <br>
+                        (in progress)
                 </div>
             </td>
         </tr>
