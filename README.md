@@ -21,6 +21,7 @@
     bozo exiting
 --->
 <!-- main markdown -->
+<!-- first table ~ primary -->
 desktop view + 80~67% zoom level recommended
 <div align="left">
     <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
@@ -86,6 +87,69 @@ desktop view + 80~67% zoom level recommended
   <img src="placeholder" width="30%" alt="1" />
   <img src="placeholder" width="30%" alt= "2" />
 </p>
+<br>
+<!-- second table ~ secondary -->
+<div align="right">
+    <img width="350" src="resources/images/HWsZBClbMAAzxSg.png" align="right" />
+</div>
+<div align="left">
+    <table>
+        <tr>
+            <td>
+                <div align="center">
+                    placeholder
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                    placeholder placeholder placeholder placeholder
+                    <br>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                    placeholder (again?)
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+<br>
+<br>
+<br>
 <!-- miscellaneous markdown -->
 <div align="center">
     <details>
