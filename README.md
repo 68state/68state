@@ -66,15 +66,9 @@ desktop view + 80~67% zoom level recommended
                     ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ${\color{#c0f545}{\textsf{࿐}}}$
                     <br>
                     <kbd>
-                        <a href="https://lgbtqia.wiki/wiki/Non-Binary">
-                            <img width="53" src="resources/images/nonbinary.png" />
-                        </a>
-                        <a href="https://lgbtqia.wiki/wiki/Dysphoric">
-                            <img width="53" src="resources/images/dysphoria.png" />
-                        </a>
-                        <a href="https://lgbtqia.wiki/wiki/Bisexual">
-                            <img width="53" src="resources/images/bisexual.png" />
-                        </a>
+                        <a href="https://lgbtqia.wiki/wiki/Non-Binary"><img width="53" src="resources/images/nonbinary.png" /></a>
+                        <a href="https://lgbtqia.wiki/wiki/Dysphoric"><img width="53" src="resources/images/dysphoria.png" /></a>
+                        <a href="https://lgbtqia.wiki/wiki/Bisexual"><img width="53" src="resources/images/bisexual.png" /></a>
                     </kbd>
                     <br>
                     ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫᭪ ˚̣̣̣♪}}}$
