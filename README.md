@@ -159,7 +159,7 @@ desktop view + 80~67% zoom level recommended
 <br>
 <br>
 <br>
-<!-- miscellaneous markdown -->
+miscellaneous markdown
 <div align="center">
     <details>
         <summary>${\color{#c0f545}{\textsf{collection}}}$</summary>
