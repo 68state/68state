@@ -95,7 +95,10 @@ desktop view + 80~67% zoom level recommended
   <img src="placeholder" width="30%" alt= "2" />
 </p>
 <br>
-<!-- second table ~ secondary -->
+<!-- "second table ~ secondary" table will be hidden for a while.
+        the table barely has anything and i still have no idea
+        what to use it for, ill think about my choices and might
+        as well i add it back together later
 <div align="right">
     <img width="350" src="resources/images/HWsZBClbMAAzxSg.png" align="right" />
 </div>
