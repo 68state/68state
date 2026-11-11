@@ -110,10 +110,15 @@ desktop view + 80~67% zoom level recommended
         </tr>
         <tr>
             <td>
-                <div align="center">
-                    shoutout
-                    <br>
-                    <img width="430" alt="image" src="https://github.com/user-attachments/assets/6506c8e2-60e2-4bae-a420-672d2e8e8e71" />
+                    <details>
+                        <summary>
+                            ${\color{#c0f545}{\textsf{github things ive done}}}$
+                        </summary>
+                        - <a href="https://github.com/conflux-warp/conflux-warp">conflux-warp/conflux-warp</a>
+                        <br>
+                        - <a href="firstprevious_README.md">mine previous profile readme (aka crackerisland/crackerisland)</a>
+                        <br>
+                        - <a href="https://github.com/conflux-warp/conflux-warp.github.io">conflux-warp/conflux-warp.github.io (in progress)</a>
                 </div>
             </td>
         </tr>
