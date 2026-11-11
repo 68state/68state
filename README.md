@@ -38,15 +38,20 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <kbd>
-                        <img src="resources/images/mail.gif" />
-                        <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
-                    </kbd>
-                    <br>
-                    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eczar&size=19&duration=3000&color=D3F739&vCenter=true&multiline=true&width=240&height=80&lines=%E2%80%9C%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+Oh+joy's;Arise+the+sun+has+come+again+...;to%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+hold%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+you;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex" alt="Typing SVG" /></a>
-                    <br>
-                    ${\color{#c0f545}{\textsf{───────}}}$
-                    <br>
+                    <table>
+                        <td>
+                            <div align="center">
+                                <kbd>
+                                    <img src="resources/images/mail.gif" />
+                                    <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=aceb4f&logo=leaflet" />
+                                </kbd>
+                                <br>
+                                <a href="https://git.io/typing-svg">
+                                    <img src="https://readme-typing-svg.demolab.com?font=Eczar&size=19&duration=3000&color=D3F739&vCenter=true&multiline=true&width=240&height=80&lines=%E2%80%9C%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+Oh+joy's;Arise+the+sun+has+come+again+...;to%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+hold%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80+you;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;%E2%A0%80%E2%A0%80%E2%A0%80;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex" alt="Typing SVG" />
+                                </a>
+                            </div>
+                        </td>
+                    </table>
                     ${\color{#c0f545}{\textsf{̣̣ 𓏫   ͜͝ | ྀི ⠀𓏼๑ ݂ ۫⠀⠀⠀✿}}}$ ⠀⠀⠀bozo / yoru
                     <br>
                     ⠀
@@ -70,6 +75,8 @@ desktop view + 80~67% zoom level recommended
                     <br>
                     <img width="200" src="resources/images/sparkle.jpg" />
                     <br>
+                    ${\color{#c0f545}{\textsf{───────}}}$
+                    <br>
                     <a href="resources/credits.md">credits</a>
                 </div>
             </td>
@@ -77,7 +84,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    <img width="345" src="resources/images/ladewdew.gif" alt="green_border1" />
+                    <img width="345" src="resources/images/ladewdew2.gif" alt="green_border2" />
                 </div>
             </td>
         </tr>
@@ -97,42 +104,42 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    placeholder
+                    <img width="345" src="resources/images/ladewdew_yellow.gif" alt="yellow_border1" />
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder
                     <br>
                 </div>
             </td>
@@ -140,7 +147,7 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    placeholder (again?)
+                    <img width="345" src="resources/images/ladewdewwhy am i calling it ladewdew again_yellow.gif" alt="yellow_border2" />
                 </div>
             </td>
         </tr>
