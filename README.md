@@ -54,7 +54,7 @@ desktop view recommended
                     <img src="resources/images/leaf.gif"/>
                     ${\color{#c0f545}{\textsf{⠀ ͜͝ |}}}$
                     <br>
-                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ࿐
+                    ${\color{#c0f545}{\textsf{⠀˚̣̣̣︶ ྀི⠀⠀ ⠀𓎢}}}$ 𓎟 ${\color{#c0f545}{\textsf{𓎡}}}$ ⠀♪   ͜͝ ${\color{#c0f545}{\textsf{࿐}}}$
                     <br>
                     <kbd>
                         <img width="53" src="resources/images/nonbinary.png" />
@@ -62,12 +62,12 @@ desktop view recommended
                         <img width="53" src="resources/images/bisexual.png" />
                     </kbd>
                     <br>
-                    ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫ 𝜗᭪ ˚̣̣̣♪}}}$
-                    <br>
-                    <img width="200" src="resources/images/sparkle.jpg" />
+                    ${\color{#c0f545}{\textsf{། ͝ ꒹　𓏫　　ּ〪⠀⠀⠀◟ ̣̣̥͜♫᭪ ˚̣̣̣♪}}}$
                     <br>
                     <img src="resources/images/stamp1.gif" />
                     <img src="resources/images/stamp2.gif" />
+                    <br>
+                    <img width="200" src="resources/images/sparkle.jpg" />
                     <br>
                     <a href="resources/credits.md">credits</a>
                 </div>
