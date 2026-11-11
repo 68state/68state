@@ -114,11 +114,18 @@ desktop view + 80~67% zoom level recommended
                         <summary>
                             ${\color{#c0f545}{\textsf{github things ive done}}}$
                         </summary>
-                        - <a href="https://github.com/conflux-warp/conflux-warp">conflux-warp/conflux-warp</a>
+                        - <a href="https://github.com/conflux-warp/conflux-warp">
+                            conflux-warp/conflux-warp
+                        </a>
                         <br>
-                        - <a href="firstprevious_README.md">mine previous profile readme (aka crackerisland/crackerisland)</a>
+                        - <a href="firstprevious_README.md">
+                            mine previous profile readme</a>
                         <br>
-                        - <a href="https://github.com/conflux-warp/conflux-warp.github.io">conflux-warp/conflux-warp.github.io (in progress)</a>
+                        (aka crackerisland/crackerisland)
+                        <br>
+                        - <a href="https://github.com/conflux-warp/conflux-warp.github.io">
+                            conflux-warp/conflux-warp.github.io (in progress)
+                        </a>
                 </div>
             </td>
         </tr>
