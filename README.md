@@ -24,6 +24,9 @@
 <!-- first table ~ primary -->
 desktop view + 80~67% zoom level recommended
 <div align="left">
+    <br>
+    <br>
+    <br>
     <a href="https://en.wikipedia.org/wiki/Damon_Albarn">
         <!-- i dont know whats the purpose of the wikipedia since most may not notice but i guess -->
         <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
