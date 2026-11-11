@@ -104,35 +104,35 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
-                    placeholder placeholder placeholder placeholder
+                    placeholder placeholder placeholder placeholder placeholder
                     <br>
                 </div>
             </td>
