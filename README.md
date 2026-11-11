@@ -180,3 +180,8 @@ desktop view + 80~67% zoom level recommended
         <img width="155" src="resources/images/rammstein_blinky.jpg" alt="rammstein" />
     </details>
 </div>
+<div align="right">
+    <a href="https://battlecats.miraheze.org/wiki/Cat_(Normal_Cat)">
+        <img src="resources/images/cat.gif" />
+    </a>
+</div>
