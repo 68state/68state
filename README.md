@@ -113,7 +113,7 @@ desktop view + 80~67% zoom level recommended
                 <div align="center">
                     shoutout
                     <br>
-                    <img width="632" height="203" alt="image" src="https://github.com/user-attachments/assets/6506c8e2-60e2-4bae-a420-672d2e8e8e71" />
+                    <img width="500" alt="image" src="https://github.com/user-attachments/assets/6506c8e2-60e2-4bae-a420-672d2e8e8e71" />
                 </div>
             </td>
         </tr>
