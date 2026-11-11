@@ -111,36 +111,9 @@ desktop view + 80~67% zoom level recommended
         <tr>
             <td>
                 <div align="center">
-                    placeholder placeholder placeholder placeholder
+                    shoutout
                     <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
-                    placeholder placeholder placeholder placeholder
-                    <br>
+                    <img width="632" height="203" alt="image" src="https://github.com/user-attachments/assets/6506c8e2-60e2-4bae-a420-672d2e8e8e71" />
                 </div>
             </td>
         </tr>
