@@ -21,7 +21,7 @@
     bozo exiting
 --->
 <!-- main markdown -->
-desktop view recommended
+desktop view + 80~67% zoom level recommended
 <div align="left">
     <img width="380" src="resources/images/HWsZBClbMAAzxSg%20(1).png" align="left" />
 </div>
