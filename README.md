@@ -23,7 +23,7 @@
 <!-- this readme will have proper remake soon -->
 <div align="center">
     <kbd>
-        <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=ffffff&labelColor=ffffff&logo=leaflet" />
+        <img alt=":3c" src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80obstructa&color=000000&labelColor=000000&logo=cobalt" />
     </kbd>
     <br>
     <br>
