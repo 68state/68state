@@ -27,12 +27,38 @@
     </kbd>
     <br>
     <br>
-    so we have nothing concrete ... except more red herrings ? hmmmmmm
-    <br>
-    afternoon laziness leads me to perusing the postings while i was offline i find this on the BB ...
-    <br>
-    <br>
     <a href="http://murdocswinnebago.com"><img src="resources/images/winnebago.png" /></a>
     <br>
     <img src="resources/images/gorillazLogoSpray.gif" />
+    <br>
+    <details>
+        <summary>
+            all them work
+        </summary>
+        these thing are syntax or sum like dat
+        <br>
+        i dont care about spelling as long...
+        <br>
+        as people understand whatever the hell am i trying to say
+        <br>
+        -
+        <a href="firstprevious_README.md">
+            first prev readme
+        </a>
+        <br>
+        -
+        <a href="thirdprevious_README.md">
+            third prev readme
+        </a>
+        <br>
+        -
+        <a href="https://github.com/CONFLUX-WARP/CONFLUX-WARP">
+            conflux-wrap/conflux-wrap
+        </a>
+        <br>
+        -
+        <a href="https://github.com/CONFLUX-WARP/CONFLUX-WARP.github.io">
+            conflux-wrap/conflux-wrap.github.io (work in progress👀)
+        </a>
+    </details>
 </div>
