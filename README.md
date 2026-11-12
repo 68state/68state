@@ -61,6 +61,6 @@
             conflux-wrap/conflux-wrap.github.io (work in progress👀)
         </a>
         <br>
-        psa: not affiliated or associated with conflux
+        <sub><sup>psa: not affiliated or associated with conflux</sup></sub>
     </details>
 </div>
