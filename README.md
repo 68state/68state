@@ -60,5 +60,7 @@
         <a href="https://github.com/CONFLUX-WARP/CONFLUX-WARP.github.io">
             conflux-wrap/conflux-wrap.github.io (work in progress👀)
         </a>
+        <br>
+        psa: not affiliated or associated with conflux
     </details>
 </div>
