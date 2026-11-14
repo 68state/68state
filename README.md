@@ -21,7 +21,7 @@
     bozo exiting
 --->
 <!-- main markdown -->
-better view on desktop thanks
+better view on desktop 80~67% thanks
 <div align="center">
   <img width="320" src="resources/images/HTJZI_cbsAAY4o7.jpg" align="left" />
 </div>
