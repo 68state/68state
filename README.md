@@ -12,10 +12,10 @@
   <img width="400" src="resources/images/line transparent.png" />
   <br>
   <kbd>
-    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
     <a href="https://pronouns.cc/@niccals"><img src="resources/images/button1.png" alt="pronouns.cc" align="right" /></a>
     <a href="https://box.atabook.org"><img src="resources/images/button2.png" alt="新book" align="right" /></a>
     <img src="resources/images/button3.png" alt="there is no link" align="right" />
   </kbd>
-  <img width="660" src="resources/images/MainUI_MirrorDungeon5_18.png" />
+  <img width="640" src="resources/images/MainUI_MirrorDungeon5_18.png" />
 </div>
