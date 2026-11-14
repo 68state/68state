@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <kbd>
-    <img width="70" src="resources/images/5.png" />
+    <img width="50" src="resources/images/5.png" />
     <br>
     　
   </kbd>
