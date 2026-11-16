@@ -1,6 +1,6 @@
 Hi mate
 <div align="center">
-  <img width="300" alt="Mudzdd" src="https://github.com/user-attachments/assets/005014d9-8813-49a5-adf3-a734fc6d22c2" align="right" />
+  <img width="300" src="https://github.com/user-attachments/assets/005014d9-8813-49a5-adf3-a734fc6d22c2" title="Murdoc 'Faust' Niccals" align="right" />
 </div>
 <div align="left">
   <img width="500" alt="text1" src="https://github.com/user-attachments/assets/9ee6bc99-ddda-4f24-8e09-2dade2c3f3b5" />
