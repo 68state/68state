@@ -27,7 +27,7 @@ better view on desktop 80~67% thanks
 </div>
 <br>
 <div align="center">
-    <img width="320" src="resources/images/HTJZI_cbsAAY4o7.jpg" align="left" />
+    <a href="https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)"><img width="320" src="resources/images/HTJZI_cbsAAY4o7.jpg" align="left" /></a>
 </div>
 <div align="center">
     <kbd>
@@ -41,9 +41,9 @@ better view on desktop 80~67% thanks
     <br>
     <kbd>
 　　　　　　　　　　　　　　　　　　　　　　　
-        <a href="https://pronouns.cc/@niccals"><img src="resources/images/button1.png" alt="pronouns.cc" align="right" /></a>
-        <a href="https://box.atabook.org"><img src="resources/images/button2.png" alt="新book" align="right" /></a>
-        <img src="resources/images/button3.png" alt="there is no link" align="right" />
+        <a href="https://pronouns.cc/@niccals"><img src="resources/images/button1.png" title="pronouns.cc" align="right" /></a>
+        <a href="https://box.atabook.org"><img src="resources/images/button2.png" title="新book" align="right" /></a>
+        <img src="resources/images/button3.png" title="not yet" align="right" />
     </kbd>
     <img width="500" src="resources/images/MainUI_MirrorDungeon5_18.png" />
     <br>
