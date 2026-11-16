@@ -30,6 +30,8 @@ just. murdoc faust niccals
   the book faust! dang
 </div>
 
+let s not bring up projectmoon were tlamking about gorillaz
+
 anyways... sorry for the <sub><sup>bad</sup></sub> <a href="https://bad.co.uk">bad</a> <sub><sup>pun</sup></sub>
 <br>
 right
