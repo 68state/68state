@@ -31,7 +31,7 @@ better view on desktop 80~67% thanks
 </div>
 <div align="center">
     <kbd>
-        <img width="90" src="resources/images/5.png" />
+        <a href="https://limbuscompany.wiki.gg/wiki/Meursault"><img width="90" src="resources/images/5.png" /></a>
         <br>
     　
     </kbd>
