@@ -16,17 +16,18 @@ Hi mate
   <br>
 </div>
 <div align="right">
-  believe it or not
+  hint it does not correlate with limbus company
   <br>
-  <sub><sup>i used to be a big fan of projectmoon</sup></sub> well im not a big fan of it really
-  <br>
-  anymore......... bloody hell i have bad experience with the fanbase
+  or projectmoon <sub><sup>or the faust gesellschaft</sup></sub>
 </div>
 <br>
+
+<sub><sup>not a big fan of projectmoon anymore</sup></sub> so ill reconsider
+<br>
+just. murdoc faust niccals
+
 <div align="center">
-  i still really like shiomi yoru but eh.
-  <br>
-  and oh also meursault
+  the book faust! dang
 </div>
 
 anyways... sorry for the <sub><sup>bad</sup></sub> <a href="https://bad.co.uk">bad</a> <sub><sup>pun</sup></sub>
