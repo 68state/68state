@@ -29,16 +29,6 @@ anyways... sorry for the <sub><sup>bad</sup></sub> <a href="https://bad.co.uk">b
 <br>
 right
 
-<br>
-<br>
-
-i also <sub><sup>dont know what</sup></sub> did i just do
-<br>
-<img width="386" alt="image" src="https://github.com/user-attachments/assets/81cfc743-79d9-43f9-8fbc-3b0235da60bd" />
-
-<br>
-<br>
-
 <div align="center">
   <h3>🔎 stalk me</h3>
   <a href="https://open.spotify.com/user/31eoartwwvi7637xugf2xowzc2d4"> spotify account</a> <a href="https://pronouns.cc/@niccals">pronouns cc</a> <a href="https://box.atabook.org">atabook</a> <a href="https://x.com/i1oid">my twitter do whatever you want</a> <a href="https://medici.straw.page">strawpage</a>
