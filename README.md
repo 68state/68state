@@ -44,6 +44,8 @@ i sometimes sit with a friend. or often alone
 something like this
 <br>
 <img width="367" alt="image" src="https://github.com/user-attachments/assets/d433e888-e370-4286-a80a-3c21523550fc" /> say hi to astra
+<br>
+i AM the sibuxiang! the one on the right side
 
 <div align="right">
   outa
