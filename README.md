@@ -31,6 +31,12 @@ right
 
 <br>
 <br>
+
+i also <sub><sup>dont know what</sup></sub> did i just do
+<br>
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/81cfc743-79d9-43f9-8fbc-3b0235da60bd" />
+
+<br>
 <br>
 
 Yours
