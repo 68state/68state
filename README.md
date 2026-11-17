@@ -1,4 +1,8 @@
 Hi mate
+
+<div align="center">
+  <h3>you know what else</h3>
+</div>
 <div align="center">
   <img width="300" src="https://github.com/user-attachments/assets/005014d9-8813-49a5-adf3-a734fc6d22c2" title="Murdoc 'Faust' Niccals" align="right" />
 </div>
