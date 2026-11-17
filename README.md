@@ -16,15 +16,8 @@ Hi mate
   <br>
 </div>
 <div align="right">
-  hint it does not correlate with limbus company
-  <br>
-  or projectmoon <sub><sup>or the faust gesellschaft</sup></sub>
+  just. murdoc. <sub><sup>heh</sup></sub>
 </div>
-<br>
-
-<sub><sup>not a big fan of projectmoon anymore</sup></sub> so ill reconsider
-<br>
-just. murdoc faust niccals
 
 <div align="center">
   the book faust! dang
