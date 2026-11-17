@@ -10,7 +10,7 @@ Hi mate
   <img width="500" alt="text1" src="https://github.com/user-attachments/assets/9ee6bc99-ddda-4f24-8e09-2dade2c3f3b5" />
   <br>
 
-  murdoc <a href="https://en.wikipedia.org/wiki/Faust">FAUST</a> niccals. can you believe it? ------>
+  murdoc <a href="https://en.wikipedia.org/wiki/Faust"><strike>faust</strike></a> ALPHONCE niccals. can you believe it? ------>
 
   <br>
 </div>
