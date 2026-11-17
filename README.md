@@ -47,6 +47,14 @@ i also <sub><sup>dont know what</sup></sub> did i just do
 <br>
 <br>
 
+also...
+
+i sometimes sit with a friend. or often alone
+<br>
+something like this
+<br>
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/d433e888-e370-4286-a80a-3c21523550fc" />
+
 <div align="right">
   outa
 </div>
