@@ -31,7 +31,7 @@ right
 
 <div align="center">
   <h3>🔎 stalk me</h3>
-  <a href="https://open.spotify.com/user/31eoartwwvi7637xugf2xowzc2d4"> spotify account</a> <a href="https://pronouns.cc/@niccals">pronouns cc</a> <a href="https://box.atabook.org">atabook</a> <a href="https://x.com/i1oid">my twitter do whatever you want</a> <a href="https://medici.straw.page">strawpage</a>
+  <a href="https://open.spotify.com/user/31eoartwwvi7637xugf2xowzc2d4"> spotify account</a> <a href="https://pronouns.cc/@niccals">pronouns cc</a> <a href="https://19-2000.atabook.org">atabook</a> <a href="https://x.com/i1oid">my twitter do whatever you want</a> <a href="https://medici.straw.page">strawpage</a>
 </div>
 
 <br>
