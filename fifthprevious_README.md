@@ -21,6 +21,13 @@
     bozo exiting
 --->
 <!-- main markdown -->
+<h2>
+    due to original limbus company organised assets by lunartique07 driver being taken down by dmca officially sent by projectmoon, some assets in this repository will be completely removed as an respect and to avoid getting dmca'd in some way
+    <br>
+    <br>
+    original tweets: <a href="https://x.com/Lunartique07/status/2122960677908431051">[1]</a> <a href="https://x.com/Lunartique07/status/2123027286958260560">[2/final]</a>
+</h2>
+
 better view on desktop 80~67% thanks
 <div align="center">
     <img width="1000" src="resources/images/blue_border1.gif"/>
