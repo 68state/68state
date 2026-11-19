@@ -51,7 +51,6 @@ better view on desktop 80~67% thanks
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=2272f7&bar_color_cover=true"></a>
     <br>
     <br>
-    <br>
     <div align="center">
         <details>
             <summary>
@@ -59,14 +58,6 @@ better view on desktop 80~67% thanks
             </summary>
             <div align="center">
                 <a href="https://github.com/pt-hall-of-fans">pt-hall-of-fans' murdoc (gorillaz) biggest fan</a>
-                <br>
-                test
-                <br>
-                test
-                <br>
-                test
-                <br>
-                test
             </div>
         </details>
     </div>
