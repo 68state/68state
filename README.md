@@ -59,6 +59,7 @@ better view on desktop 80~67% thanks
         </details>
     </div>
     <br>
+    　
     <br>
     <img width="1000" src="resources/images/blue_border.gif"/>
 </div>
