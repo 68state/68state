@@ -4,5 +4,30 @@
 </div>
 
 <div align="center">
-    <img width="300" src="placeholder" align="left" />
+    <img width="300" src="resources/images/miris_alt.png" title="Miris" align="left" />
+</div>
+<div align="left">
+    <table>
+        <td>
+            test
+        </td>
+    </table>
+</div>
+<div align="center">
+    <img width="100" src="resources/images/liu_favicon.png" title="Liu Assoc" align="left" />
+    <br>
+    <table>
+        <td>
+            <details>
+                <summary>
+                    hello test
+                </summary>
+            </details>
+        </td>
+    </table>
+</div>
+<br>
+<br>
+<div align="center">
+    <img width="120" src="resources/images/cg_div.gif" />
 </div>
