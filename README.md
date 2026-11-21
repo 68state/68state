@@ -3,6 +3,7 @@
     <br> <a href="https://19-2000.atabook.org">新book</a> 　　 ★ 　　 <a href="https://medici.straw.page">strawpage</a> 　　 ★ 　　 <a href="https://pronouns.cc/@niccals">pronouns.cc</a>
 </div>
 
+<!-- cutoff parts for later
 <div align="center">
     <img width="300" src="resources/images/miris_alt.png" title="Miris" align="left" />
 </div>
@@ -29,5 +30,5 @@
 <br>
 <br>
 <div align="center">
-    <img width="120" src="resources/images/cg_div.gif" />
+    <img width="230" src="resources/images/cg_div.gif" align="left" />
 </div>
