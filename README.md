@@ -3,21 +3,23 @@
     <br> <a href="https://19-2000.atabook.org">新book</a> 　　 ★ 　　 <a href="https://medici.straw.page">strawpage</a> 　　 ★ 　　 <a href="https://pronouns.cc/@niccals">pronouns.cc</a>
 </div>
 
-the one on the bottom is in work in progress
-
-<br>
+<!-- those or the syntaxs on the bottom is in work in progress
 
 <div align="center">
     <img width="430" src="resources/images/miris_alt.png" title="Miris" align="left" />
 </div>
-<p align="center">
+<div align="center">
     <table>
         <td>
             <details>
                 <summary>
-                    ${\color{#b55d3e}{\textsf{award(s)}}}$
+                     　　 ${\color{#b55d3e}{\textsf{award(s)}}}$  　　
                 </summary>
-                ---
+                <div align="center">
+                    <a href="https://github.com/THE-TEMPIST">THE-TEMPIST</a>
+                    <br> <a href="https://github.com/pt-hall-of-fans">pt-hall-of-fans</a>
+                    <br> <a href="https://github.com/piddlesjet">piddlesjet</a>
+                </div>
             </details>
         </td>
     </table>
@@ -27,3 +29,4 @@ the one on the bottom is in work in progress
 <div align="center">
     <img width="420" src="resources/images/cg_div.gif" />
 </div>
+-->
