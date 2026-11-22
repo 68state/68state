@@ -5,7 +5,7 @@
 <div align="center">
     <img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" />
 </div>
-<div align="center">
+<p align="center">
     ${\color{#b55d3e}{\textsf{She's the serpentine, she's my collar}}}$
     <br> ${\color{#b55d3e}{\textsf{I send a message, never call her}}}$
     <br>
