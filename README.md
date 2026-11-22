@@ -8,7 +8,7 @@
 <p align="center">
     ${\color{#b55d3e}{\textsf{"She's the serpentine, she's my collar}}}$
     <br> ${\color{#b55d3e}{\textsf{I send a message, never call her"}}}$
-    <br> <img src="resources/images/header alt.png" title="liner" />
+    <br>
     <br>
     <kbd>
 　　　　　　　
@@ -17,7 +17,7 @@
         <a href="https://pronouns.cc/@niccals"><img width="90" src="resources/images/pronouns cc.png" title="pronouns.cc" align="right" /></a>
     </kbd>
 </div>
-<br>
+<img src="resources/images/sparkle.jpg" />
 <div align="center">
     <table>
         <td>
