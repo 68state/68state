@@ -41,6 +41,11 @@
 <div align="center">
     <img width="380" src="resources/images/cg_div.gif" />
 </div>
+</div>
+<div align="right">
+    <a href="https://x.com/coffee_mukzima">art credit</a>
+</div>
+<!--
 <div align="right">
     <img src="resources/images/slugpup.jpg" />
 </div>
