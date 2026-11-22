@@ -52,7 +52,7 @@
                 </summary>
                     ${\color{#b55d3e}{\textsf{THANK YOU}}}$
                 <div align="center">
-                    <br> <a href="https://github.com/THE-TEMPIST">THE-TEMPIST</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/pt-hall-of-fans">pt-hall-of-fans</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/piddlesjet">piddlesjet</a>
+                    <a href="https://github.com/THE-TEMPIST">THE-TEMPIST</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/pt-hall-of-fans">pt-hall-of-fans</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/piddlesjet">piddlesjet</a>
                 </div>
             </details>
         </td>
