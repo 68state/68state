@@ -6,6 +6,10 @@
     <img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" />
 </div>
 <div align="center">
+    ${\color{#b55d3e}{\textsf{She's the serpentine, she's my collar}}}$
+    <br> ${\color{#b55d3e}{\textsf{I send a message, never call her}}}$
+    <br>
+    <br>
     <kbd>
 　　　　　　　
         <a href="https://19-2000.atabook.org"><img width="90" src="resources/images/atabook.png" title="新book" align="right" /></a>
