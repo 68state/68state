@@ -8,24 +8,22 @@ the one on the bottom is in work in progress
 <br>
 
 <div align="center">
-    <img width="300" src="resources/images/miris_alt.png" title="Miris" align="left" />
+    <img width="430" src="resources/images/miris_alt.png" title="Miris" align="left" />
 </div>
-<div align="center">
-    <img width="100" src="resources/images/liu_favicon.png" title="Liu Assoc" align="left" />
-    <br>
+<p align="center">
     <table>
         <td>
             <details>
                 <summary>
-                    extn test
+                    ${\color{#b55d3e}{\textsf{award(s)}}}$
                 </summary>
                 ---
             </details>
         </td>
     </table>
-</div>
+</p>
 <br>
 <br>
 <div align="center">
-    <img width="230" src="resources/images/cg_div.gif" align="left" />
+    <img width="420" src="resources/images/cg_div.gif" />
 </div>
