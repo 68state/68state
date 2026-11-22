@@ -6,7 +6,7 @@
 those or the syntaxs on the bottom is in work in progress
 
 <div align="center">
-    <img width="430" src="resources/images/miris_alt.png" title="Miris" align="left" />
+    <img width="410" src="resources/images/miris_alt.png" title="Miris" align="left" />
 </div>
 <div align="center">
     <kbd>
