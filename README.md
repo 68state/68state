@@ -36,11 +36,11 @@
         </td>
     </table>
 </p>
-<img width="350" src="resources/images/sparkle.jpg" />
+<br>
 <br>
 <div align="center">
     <img width="380" src="resources/images/cg_div.gif" />
 </div>
 <div align="right">
-    a
+    <img src="resources/images/slugpup.jpg" />
 </div>
