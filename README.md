@@ -21,12 +21,6 @@
     bozo exiting
 --->
 <!-- main markdown -->
-<h3>
-    better view on desktop + 67% zoom level
-</h3>
-
-<br>
-
 <div align="left">
     　　 
     <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80filibuster%20obstructa&color=ffffff&labelColor=b55d3e&logo=internetarchive" title="(' ᐜ ' ꩜ ) " />
