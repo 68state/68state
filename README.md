@@ -3,12 +3,12 @@
 </h3>
 
 <div align="center">
-    <img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" />
+    <a href="https://libraryofruina.wiki.gg/wiki/Miris"><img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" /></a>
 </div>
 <p align="center">
     ${\color{#b55d3e}{\textsf{"She's the serpentine, she's my collar}}}$
     <br> ${\color{#b55d3e}{\textsf{I send a message, never call her"}}}$
-    <br>
+    <br> <img src="resources/images/header alt.png" title="liner" />
     <br>
     <kbd>
 　　　　　　　
