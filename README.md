@@ -20,7 +20,7 @@
             <details>
                 <summary>
                     　　
-                    <img src="resources/images/Tumblr_l_2736344107241713.gif" />
+                    <img src="resources/images/fire_graphic.gif" />
                      　 ${\color{#b55d3e}{\textsf{award(s)}}}$  　　
                 </summary>
                 <div align="center">
