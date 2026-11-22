@@ -10,12 +10,13 @@ those or the syntaxs on the bottom is in work in progress
 </div>
 <div align="center">
     <kbd>
-　　　　　　　　　　
+　　　　　　　
         <a href="https://19-2000.atabook.org"><img width="90" src="resources/images/atabook.png" title="新book" align="right" /></a>
         <a href="https://medici.straw.page"><img width="90" src="resources/images/strawpage.png" title="straw.page" align="right" /></a>
         <a href="https://pronouns.cc/@niccals"><img width="90" src="resources/images/pronouns cc.png" title="pronouns.cc" align="right" /></a>
     </kbd>
 </div>
+<br>
 <div align="center">
     <table>
         <td>
