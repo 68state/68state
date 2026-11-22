@@ -6,8 +6,8 @@
     <a href="https://libraryofruina.wiki.gg/wiki/Miris"><img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" /></a>
 </div>
 <p align="center">
-    ${\color{#b55d3e}{\textsf{"She's the serpentine, she's my collar}}}$
-    <br> ${\color{#b55d3e}{\textsf{I send a message, never call her"}}}$
+    ${\color{#b55d3e}{\textsf{"Love forever, love is free}}}$
+    <br> ${\color{#b55d3e}{\textsf{Let's turn forever, you and me"}}}$
     <br>
     <br>
     <kbd>
