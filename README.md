@@ -27,7 +27,6 @@
 </div>
 <div align="center">
     <br>
-    <br>
     <a href="https://libraryofruina.wiki.gg/wiki/Miris"><img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" /></a>
 </div>
 <p align="center">
