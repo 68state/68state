@@ -27,6 +27,10 @@
 
 <br>
 
+<div align="left">
+    　　 
+    <img src="https://hits.sh/github.com/metafilibuster/metafilibuster.svg?label=%E2%A0%80filibuster%20obstructa&color=ffffff&labelColor=b55d3e&logo=internetarchive" title="(' ᐜ ' ꩜ ) " />
+</div>
 <div align="center">
     <a href="https://libraryofruina.wiki.gg/wiki/Miris"><img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" /></a>
 </div>
