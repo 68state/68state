@@ -22,7 +22,7 @@ those or the syntaxs on the bottom is in work in progress
         <td>
             <details>
                 <summary>
-                     　　 ${\color{#b55d3e}{\textsf{award(s)}}}$  　　
+                     　 ${\color{#b55d3e}{\textsf{award(s)}}}$  　　
                 </summary>
                 <div align="center">
                     <a href="https://github.com/THE-TEMPIST">THE-TEMPIST</a>
@@ -36,5 +36,5 @@ those or the syntaxs on the bottom is in work in progress
 <br>
 <br>
 <div align="center">
-    <img width="420" src="resources/images/cg_div.gif" />
+    <img width="380" src="resources/images/cg_div.gif" />
 </div>
