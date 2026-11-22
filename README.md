@@ -1,3 +1,7 @@
+<h3>
+    better view on desktop + 67% zoom level
+</h3>
+
 <div align="center">
     <img width="350" src="resources/images/miris_alt.png" title="Miris" align="left" />
 </div>
