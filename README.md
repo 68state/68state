@@ -51,6 +51,8 @@
                     ${\color{#b55d3e}{\textsf{award(s)}}}$  　　　　 　　　
                 </summary>
                 <div align="center">
+                    ${\color{#b55d3e}{\textsf{thank you! (' ᐜ ' ꩜ )}}}$
+                    <br>
                     <a href="https://github.com/THE-TEMPIST">
                         THE-TEMPIST
                     </a>
