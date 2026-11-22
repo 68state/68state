@@ -3,16 +3,12 @@
     <br> <a href="https://19-2000.atabook.org">新book</a> 　　 ★ 　　 <a href="https://medici.straw.page">strawpage</a> 　　 ★ 　　 <a href="https://pronouns.cc/@niccals">pronouns.cc</a>
 </div>
 
-<!-- cutoff parts for later
+the one on the bottom is in work in progress
+
+<br>
+
 <div align="center">
     <img width="300" src="resources/images/miris_alt.png" title="Miris" align="left" />
-</div>
-<div align="left">
-    <table>
-        <td>
-            test
-        </td>
-    </table>
 </div>
 <div align="center">
     <img width="100" src="resources/images/liu_favicon.png" title="Liu Assoc" align="left" />
@@ -21,8 +17,9 @@
         <td>
             <details>
                 <summary>
-                    hello test
+                    extn test
                 </summary>
+                ---
             </details>
         </td>
     </table>
