@@ -3,7 +3,7 @@
 </h3>
 
 <div align="center">
-    <img width="350" src="resources/images/miris_alt.png" title="Miris" align="left" />
+    <img width="370" src="resources/images/lm alt picture.png" title="Miris" align="left" />
 </div>
 <div align="center">
     <kbd>
