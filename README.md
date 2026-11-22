@@ -51,7 +51,17 @@
                     ${\color{#b55d3e}{\textsf{award(s)}}}$  　　　　 　　　
                 </summary>
                 <div align="center">
-                    <a href="https://github.com/THE-TEMPIST">THE-TEMPIST</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/pt-hall-of-fans">pt-hall-of-fans</a> ${\color{#b55d3e}{\textsf{✦}}}$ <a href="https://github.com/piddlesjet">piddlesjet</a>
+                    <a href="https://github.com/THE-TEMPIST">
+                        THE-TEMPIST
+                    </a>
+                    ${\color{#b55d3e}{\textsf{✦}}}$
+                    <a href="https://github.com/pt-hall-of-fans">
+                        pt-hall-of-fans
+                    </a>
+                    ${\color{#b55d3e}{\textsf{✦}}}$
+                    <a href="https://github.com/piddlesjet">
+                        piddlesjet
+                    </a>
                 </div>
             </details>
         </td>
@@ -67,7 +77,9 @@
 <br>
 <br>
 <div align="right">
-    <a href="https://x.com/coffee_mukzima">art credit</a>
+    <a href="https://x.com/coffee_mukzima">
+        art credit
+    </a>
 </div>
 <!--
 <img src="resources/images/slugpup.jpg" />
