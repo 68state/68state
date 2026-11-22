@@ -17,7 +17,7 @@
         <a href="https://pronouns.cc/@niccals"><img width="90" src="resources/images/pronouns cc.png" title="pronouns.cc" align="right" /></a>
     </kbd>
 </div>
-<img src="resources/images/sparkle.jpg" />
+<img width="320" src="resources/images/sparkle.jpg" />
 <div align="center">
     <table>
         <td>
