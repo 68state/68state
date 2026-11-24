@@ -74,7 +74,7 @@
 <br>
 <div align="center">
     <img width="340" src="resources/images/cg_div.gif" title="Chun x Miris ♡" />
-    <br> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=b55d3e&bar_color_cover=false" title="spotify um thing" align="left" />
+    <br> <a href="https://open.spotify.com/user/31eoartwwvi7637xugf2xowzc2d4"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=b55d3e&bar_color_cover=false" title="spotify um thing" align="left" /></a>
 </div>
 </div>
 <br>
